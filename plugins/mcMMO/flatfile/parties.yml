@@ -1,0 +1,18 @@
+slrp:
+  Leader: d5995e78-c7cb-4d2e-aa81-a8899bd47ad5|JGamesSP
+  Locked: true
+  Level: 10
+  Xp: 32
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - d5995e78-c7cb-4d2e-aa81-a8899bd47ad5|JGamesSP
+  - f303893c-768a-4c80-b4f9-65d2a7a8210c|transferreSP
+  - ac59ab29-63a9-4865-912e-ab25be6efa08|C2gl

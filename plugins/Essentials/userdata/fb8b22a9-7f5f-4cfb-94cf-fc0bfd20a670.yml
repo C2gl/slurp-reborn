@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738242579896
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738243361012
+  login: 1738242539104
+money: '44000.0'
+last-account-name: Art3mis7200
+lastlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: 1067.315989436686
+  y: 50.5
+  z: 1478.193375541122
+  yaw: -156.13671875
+  pitch: 10.265321731567383
+logoutlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: 630.5
+  y: 74.875
+  z: 1614.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  jules:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 1091.5618382634996
+    y: 63.0
+    z: 1306.3427132331233
+    yaw: -53.434207916259766
+    pitch: 26.310773849487305
+  home:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 633.6419503564011
+    y: 73.0
+    z: 1613.836456655668
+    yaw: 116.17584228515625
+    pitch: 25.277000427246094
+  ferre:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 333.9549265846822
+    y: 65.0
+    z: 612.5215457872082
+    yaw: 97.96583557128906
+    pitch: 21.05596923828125

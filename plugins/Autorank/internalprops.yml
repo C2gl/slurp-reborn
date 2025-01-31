@@ -1,0 +1,52 @@
+# This is the internal properties file of Autorank. 
+# You should not touch any values here, unless instructed by a developer.
+# Autorank uses these to keep track of certain aspects of the plugin.
+
+leaderboard last updated: 0
+has converted uuids: true
+leaderboards:
+  daily_time:
+    cached leaderboard:
+    - '-------- Leaderboard (Daily time) --------'
+    - §61 | §btransferreSP - §70 days, 0 hours and 2 minutes.
+    - '------------------------------------'
+    last updated: 1738324835243
+  weekly_time:
+    cached leaderboard:
+    - '-------- Leaderboard (Weekly time) --------'
+    - §61 | §bJGamesSP - §70 days, 21 hours and 43 minutes.
+    - §62 | §btransferreSP - §70 days, 19 hours and 10 minutes.
+    - §63 | §bArt3mis7200 - §70 days, 18 hours and 42 minutes.
+    - §64 | §bTomosChlausorius - §70 days, 14 hours and 55 minutes.
+    - §65 | §bC2gl - §70 days, 10 hours and 14 minutes.
+    - §66 | §btheChichi77 - §70 days, 1 hour and 56 minutes.
+    - '------------------------------------'
+    last updated: 1738324835253
+  monthly_time:
+    cached leaderboard:
+    - '-------- Leaderboard (Monthly time) --------'
+    - §61 | §bJGamesSP - §71 day, 22 hours and 10 minutes.
+    - §62 | §btransferreSP - §71 day, 6 hours and 28 minutes.
+    - §63 | §bArt3mis7200 - §71 day, 1 hour and 13 minutes.
+    - §64 | §bC2gl - §70 days, 17 hours and 50 minutes.
+    - §65 | §bTomosChlausorius - §70 days, 14 hours and 55 minutes.
+    - §66 | §btheChichi77 - §70 days, 2 hours and 29 minutes.
+    - §67 | §bMVGames5419 - §70 days, 0 hours and 3 minutes.
+    - '------------------------------------'
+    last updated: 1738324835261
+  total_time:
+    cached leaderboard:
+    - '-------- Leaderboard (All time) --------'
+    - §61 | §bJGamesSP - §71 day, 22 hours and 10 minutes.
+    - §62 | §btransferreSP - §71 day, 6 hours and 28 minutes.
+    - §63 | §bArt3mis7200 - §71 day, 1 hour and 13 minutes.
+    - §64 | §bC2gl - §70 days, 17 hours and 50 minutes.
+    - §65 | §bTomosChlausorius - §70 days, 14 hours and 55 minutes.
+    - §66 | §btheChichi77 - §70 days, 2 hours and 29 minutes.
+    - §67 | §bMVGames5419 - §70 days, 0 hours and 3 minutes.
+    - '------------------------------------'
+    last updated: 1738324835269
+is converted to new format: true
+tracked day: 5
+tracked week: 5
+tracked month: 1

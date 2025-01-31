@@ -1,0 +1,88 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.147.19.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1711997634727
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712000216513
+  login: 1711997318046
+money: '6002.9810000000042'
+last-account-name: Rein3003
+lastlocation:
+  world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+  world-name: world
+  x: -5283.300000011921
+  y: 88.0
+  z: 2742.8304487889604
+  yaw: 118.85147094726562
+  pitch: 90.0
+logoutlocation:
+  world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+  world-name: world
+  x: -9419.699999988079
+  y: 141.0
+  z: 10029.632529485187
+  yaw: 106.757080078125
+  pitch: 0.0
+homes:
+  home:
+    world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+    world-name: world
+    x: -5275.465269240386
+    y: 111.0625
+    z: 2723.7880920755947
+    yaw: -109.59130859375
+    pitch: 58.35002899169922
+  kippen:
+    world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+    world-name: world
+    x: -5271.699999988079
+    y: 106.0
+    z: 2729.300000011921
+    yaw: -34.73779296875
+    pitch: 12.750551223754883
+  ferre:
+    world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+    world-name: world
+    x: -4706.398458737921
+    y: 93.0
+    z: 3141.0888589808537
+    yaw: -142.7418212890625
+    pitch: 16.49960708618164
+  megge:
+    world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+    world-name: world
+    x: -6819.5
+    y: 77.0
+    z: 2699.5
+    yaw: -9.704602241516113
+    pitch: 21.351835250854492
+  spawn:
+    world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+    world-name: world
+    x: -2967.4666219979313
+    y: 138.0
+    z: 270.49340172115905
+    yaw: 71.832763671875
+    pitch: 62.64466857910156
+  wardenver:
+    world: a1e7cff0-60a2-4841-a2af-c1452e2a83eb
+    world-name: world
+    x: -7496.02886763997
+    y: -48.0
+    z: 3570.9957229691167
+    yaw: -133.56689453125
+    pitch: 23.682876586914062
+nickname: babijntje
