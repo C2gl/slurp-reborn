@@ -1,2 +1,4 @@
 plugins/dynmap/
 plugins/DiscordSRV/
+db_stats/
+cache/
