@@ -1,0 +1,111 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738706608096
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738706777326
+  login: 1738700902470
+money: '12000.0'
+last-account-name: transferreSP
+lastlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: 5533.23334523582
+  y: 71.0
+  z: -774.0456924272864
+  yaw: -0.13507080078125
+  pitch: 11.392363548278809
+homes:
+  end:
+    world: 7845208e-42c1-4bd5-8b3c-043d9aa3da79
+    world-name: world_the_end
+    x: -91.10627101547621
+    y: 38.0
+    z: -42.108942333509425
+    yaw: -146.12411499023438
+    pitch: 19.72763442993164
+  newhome:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 324.5
+    y: 64.0
+    z: 621.5
+    yaw: -8.794318199157715
+    pitch: 17.453319549560547
+  yesend:
+    world: 7845208e-42c1-4bd5-8b3c-043d9aa3da79
+    world-name: world_the_end
+    x: -995.5
+    y: 43.0
+    z: -424.5
+    yaw: 77.94317626953125
+    pitch: -17.91844940185547
+  cave:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 350.6386601803521
+    y: 26.0
+    z: 155.0846936691528
+    yaw: 112.35171508789062
+    pitch: 9.092391967773438
+  jules:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 1102.2562951543773
+    y: 63.0
+    z: 1307.1826059426805
+    yaw: -84.21272277832031
+    pitch: -0.13535472750663757
+  creeper:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 508.0646286161596
+    y: 141.0
+    z: 773.4405212773819
+    yaw: -9.9559326171875
+    pitch: 60.74846649169922
+  blackstone:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 4355.584613397713
+    y: 71.0
+    z: -1120.6719593723521
+    yaw: -33.43791961669922
+    pitch: 21.34930419921875
+  tower:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 4611.764489189376
+    y: 91.0
+    z: -820.6968671223956
+    yaw: 100.41558837890625
+    pitch: 0.29793399572372437
+  terracotta:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 5922.737044777781
+    y: 91.0
+    z: -924.0280372534514
+    yaw: -7.686779975891113
+    pitch: 3.13918137550354
+logoutlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: 324.5
+  y: 64.0
+  z: 623.5
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738579973314
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738670406961
+  login: 1738668160727
+money: '13000.0'
+last-account-name: JGamesSP
+homes:
+  pretty:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 4579.5624858640695
+    y: 93.0
+    z: -871.5011758119755
+    yaw: 175.37240600585938
+    pitch: 8.961959838867188
+  home:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: 1092.1620014382013
+    y: 63.0
+    z: 1308.4174274141312
+    yaw: 103.03094482421875
+    pitch: 30.262086868286133
+logoutlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: 1285.8099800900204
+  y: 96.53012862700538
+  z: 1287.729797752124
+  yaw: 108.42404174804688
+  pitch: 49.50436019897461
+lastlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: 4562.143292952129
+  y: 89.0
+  z: -928.7954944215619
+  yaw: 14.402008056640625
+  pitch: 28.821035385131836

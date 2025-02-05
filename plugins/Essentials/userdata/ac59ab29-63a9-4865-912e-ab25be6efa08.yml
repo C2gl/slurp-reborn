@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738703746421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738703822482
+  login: 1738701717031
+money: '7000.0'
+last-account-name: C2gl
+logoutlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: -611.8145159142636
+  y: 72.0
+  z: -685.0244269166994
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: -956.1294465776082
+  y: 84.0
+  z: -3631.2068856737096
+  yaw: -63.995849609375
+  pitch: 27.31986427307129
+homes:
+  planes:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: -608.7406193473156
+    y: 71.0
+    z: -671.2037435573933
+    yaw: 0.0
+    pitch: 0.0
+  stronghold:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: -3648.511209831987
+    y: -21.0
+    z: -4090.9193335478644
+    yaw: -4.6763916015625
+    pitch: 11.567071914672852
+  gerere:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: -715.8739392723808
+    y: 86.0
+    z: -2016.6507025757312
+    yaw: 138.4106903076172
+    pitch: 13.511503219604492
+  skyhigh:
+    world: 90886326-a2c5-4fc8-97b8-83049263b946
+    world-name: world
+    x: -701.6999999880791
+    y: 197.0
+    z: -3679.266194096398
+    yaw: -127.0089111328125
+    pitch: 35.558555603027344
