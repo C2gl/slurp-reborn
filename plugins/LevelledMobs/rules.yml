@@ -40,8 +40,9 @@ presets:
     name: 'LVL Strategy - Weighted Random'
     strategies:
       weighted-random:
-        11-50: 0
-        5-10: 1
+        50-75: 1
+        11-50: 2
+        5-10: 4
         4-8: 10
         3-6: 25
         2-4: 50
@@ -54,8 +55,8 @@ presets:
         origin-coordinates:
           x: spawn
           z: spawn
-        buffer-distance: 250
-        ringed-tiers: 750
+        buffer-distance: 100
+        ringed-tiers: 250
       # Y-Height Modifier
         enable-height-modifier: true
         transition-y-height: 62

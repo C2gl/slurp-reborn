@@ -107,7 +107,7 @@ exceed-kill-in-chunk-message: true
 # ||  This sets a hard limit on the number of entities
 # ||  you can summon using the LevelledMobs summon command.
 # ||  This is to prevent accidental crashes.
-customize-summon-command-limit: 10
+customize-summon-command-limit: 40
 
 # ||  What is the max distance the summon command will
 # ||  spawn mobs away from players?
