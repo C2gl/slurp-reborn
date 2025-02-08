@@ -1,8 +1,8 @@
 worlds:
-  world_pve:
+  world:
     ==: MVWorld
     hidden: 'false'
-    alias: world_pve
+    alias: world
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -33,16 +33,16 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 0.0
-      y: 118.0
-      z: 0.0
+      x: -290.0
+      y: 70.0
+      z: -57.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
     environment: NORMAL
-    seed: '-8243873850966451052'
+    seed: '-6018321323546593994'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
@@ -93,10 +93,10 @@ worlds:
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
-  world:
+  world_pve:
     ==: MVWorld
     hidden: 'false'
-    alias: world
+    alias: world_pve
     color: WHITE
     style: NORMAL
     pvp: 'true'
@@ -127,16 +127,16 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: -290.0
-      y: 70.0
-      z: -57.0
+      x: 0.0
+      y: 118.0
+      z: 0.0
       pitch: 0.0
       yaw: 0.0
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
     environment: NORMAL
-    seed: '-6018321323546593994'
+    seed: '-8243873850966451052'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
