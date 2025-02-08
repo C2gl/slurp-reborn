@@ -1,188 +1,188 @@
-[09:43:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu124.04; Ubuntu null) on Linux 6.8.12-4-pve (amd64)
-[09:43:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-136-main@e0711af (2025-01-31T12:30:12Z) for Minecraft 1.21.4
-[09:43:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[09:43:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
-[09:43:39] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[00:00:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu124.04; Ubuntu null) on Linux 6.8.12-4-pve (amd64)
+[00:00:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-136-main@e0711af (2025-01-31T12:30:12Z) for Minecraft 1.21.4
+[00:00:10] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:00:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 25 plugins
+[00:00:11] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - EconomyShopGUI (6.10.2)
-[09:43:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (24):
+[00:00:11] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (24):
  - Autorank (5.2.2), Chunky (1.4.28), DiscordSRV (1.29.0), Dynmap-Essentials (0.91-SNAPSHOT), Dynmap-GriefPrevention (0.88), Essentials (2.21.0-dev+162-ea3ea20), EssentialsChat (2.21.0-dev+162-ea3ea20), FlyTime (1.2), GriefPrevention (16.18.4), Hibernate (2.1.0), LevelTools (1.4.0.2), LevelledMobs (4.2.0.2 b98), LuckPerms (5.4.120), LumberJack (5.4.0), PlayerShopGUIPlus (1.33.1), Playtimes (1.6.2b), Sleeper (1.5.1), TAB (5.0.3), Vault (1.7.3-b131), VeinMiner (2.2.4), concrete_powder_modifier (${version}), dynmap (3.7-SNAPSHOT-968), mcMMO (2.2.030), playit-gg (0.1.4)
-[09:43:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[09:43:46] [ServerMain/INFO]: Loaded 1377 recipes
-[09:43:46] [ServerMain/INFO]: Loaded 1544 advancements
-[09:43:46] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[09:43:46] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 178.1ms
-[09:43:46] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[09:43:46] [Server thread/INFO]: Loading properties
-[09:43:46] [Server thread/INFO]: This server is running Paper version 1.21.4-136-main@e0711af (2025-01-31T12:30:12Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[09:43:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[09:43:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[09:43:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[09:43:47] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
-[09:43:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[09:43:47] [Server thread/INFO]: Default game type: SURVIVAL
-[09:43:47] [Server thread/INFO]: Generating keypair
-[09:43:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:43:47] [Server thread/INFO]: Using epoll channel type
-[09:43:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[09:43:47] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[09:43:47] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[09:43:54] [Server thread/WARN]: Legacy plugin Dynmap-Essentials v0.91-SNAPSHOT does not specify an api-version.
-[09:43:55] [Server thread/WARN]: Legacy plugin Playtimes v1.6.2b does not specify an api-version.
-[09:43:55] [Server thread/WARN]: Legacy plugin FlyTime v1.2 does not specify an api-version.
-[09:43:55] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.120
-[09:43:56] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
-[09:43:56] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+162-ea3ea20
-[09:43:56] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-968
-[09:43:56] [Server thread/INFO]: [dynmap] version=1.21.4-136-e0711af (MC: 1.21.4)
-[09:43:56] [Server thread/INFO]: [dynmap] Mod Support API available
-[09:43:56] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+162-ea3ea20
-[09:43:56] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.030
-[09:43:56] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
-[09:43:56] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
-[09:43:56] [Server thread/INFO]: [Dynmap-Essentials] Loading server plugin Dynmap-Essentials v0.91-SNAPSHOT
-[09:43:56] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.1
-[09:43:56] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[09:43:56] [Server thread/INFO]: [LevelTools] Loading server plugin LevelTools v1.4.0.2
-[09:43:56] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
-[09:43:56] [Server thread/INFO]: [concrete_powder_modifier] Loading server plugin concrete_powder_modifier v${version}
-[09:43:56] [Server thread/INFO]: [PlayerShopGUIPlus] Loading server plugin PlayerShopGUIPlus v1.33.1
-[09:43:56] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
-[09:43:56] [Server thread/INFO]: [LumberJack] Loading server plugin LumberJack v5.4.0
-[09:43:56] [Server thread/INFO]: [Playtimes] Loading server plugin Playtimes v1.6.2b
-[09:43:56] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
-[09:43:56] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.2.0.2 b98
-[09:43:56] [Server thread/INFO]: [LevelledMobs] Loading commands
-[09:43:56] [Server thread/INFO]: [FlyTime] Loading server plugin FlyTime v1.2
-[09:43:56] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.2.4
-[09:43:56] [Server thread/INFO]: [Autorank] Loading server plugin Autorank v5.2.2
-[09:43:56] [Server thread/INFO]: [Dynmap-GriefPrevention] Loading server plugin Dynmap-GriefPrevention v0.88
-[09:43:56] [Server thread/INFO]: [Hibernate] Loading server plugin Hibernate v2.1.0
-[09:43:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[09:43:56] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.120
-[09:43:56] [Server thread/INFO]:         __    
-[09:43:56] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.120
-[09:43:56] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[09:43:56] [Server thread/INFO]: 
-[09:43:56] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[09:43:57] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[09:43:57] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[09:43:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[09:43:58] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1956ms)
-[09:43:58] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[09:43:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[09:43:58] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[09:43:58] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[09:43:58] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[09:43:58] [Server thread/INFO]: Preparing level "world"
-[09:43:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:43:59] [Server thread/INFO]: Preparing spawn area: 0%
-[09:43:59] [Server thread/INFO]: Preparing spawn area: 2%
-[09:43:59] [Server thread/INFO]: Time elapsed: 535 ms
-[09:43:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[09:43:59] [Server thread/INFO]: Preparing spawn area: 0%
-[09:43:59] [Server thread/INFO]: Time elapsed: 196 ms
-[09:43:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[09:43:59] [Server thread/INFO]: Preparing spawn area: 0%
-[09:43:59] [Server thread/INFO]: Time elapsed: 49 ms
-[09:43:59] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+162-ea3ea20
-[09:44:00] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[09:44:00] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[09:44:00] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[09:44:00] [Server thread/WARN]: [Essentials] File plugins/Essentials/items.json has been modified by user and file version differs, please update the file manually.
-[09:44:00] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
-[09:44:00] [Server thread/INFO]: [Essentials] Using locale en
-[09:44:00] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[09:44:00] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[09:44:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[09:44:00] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[09:44:00] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-968
-[09:44:01] [Server thread/INFO]: [dynmap] Added 127 custom biome mappings
-[09:44:01] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.120 for access control
-[09:44:01] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
-[09:44:03] [Server thread/INFO]: [dynmap] Starting enter/exit processing
-[09:44:03] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
-[09:44:03] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[09:44:03] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-968 is enabled - core version 3.7-SNAPSHOT-985
-[09:44:03] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
-[09:44:03] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
-[09:44:03] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
-[09:44:03] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 855655 pending tile renders for world 'world'
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 161538 pending tile renders for world 'world_nether'
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[09:44:03] [Server thread/INFO]: [dynmap] Loaded 148890 pending tile renders for world 'world_the_end'
-[09:44:03] [Server thread/INFO]: [dynmap] Enabled
-[09:44:03] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+162-ea3ea20
-[09:44:03] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
-[09:44:03] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.030
-[09:44:04] [Server thread/INFO]: [mcMMO] Loaded 229 Alchemy potions, skipped 0.
-[09:44:04] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
-[09:44:05] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[09:44:05] [Server thread/INFO]: [GriefPrevention] 13 total claims loaded.
-[09:44:05] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[09:44:05] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[09:44:05] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[09:44:05] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
-[09:44:05] [Server thread/INFO]: [Dynmap-Essentials] Enabling Dynmap-Essentials v0.91-SNAPSHOT*
-[09:44:05] [Server thread/INFO]: [Dynmap-Essentials] initializing
-[09:44:05] [Server thread/INFO]: [Dynmap-Essentials] version 0.91-SNAPSHOT is activated
-[09:44:05] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.1
-[09:44:05] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.1 Has Been Enabled!
-[09:44:05] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[09:44:05] [Server thread/INFO]: [TAB] Loaded NMS hook in 56ms
-[09:44:05] [Server thread/INFO]: [TAB] [config.yml] [Hint] Refresh interval of %server_unique_joins% is same as default interval, therefore there is no need to override it.
-[09:44:05] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
-[09:44:05] [Server thread/INFO]: [TAB] [WARN] [groups.yml] Unknown property "customtagname" defined for group "_DEFAULT_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
-[09:44:05] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "abovename" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
-[09:44:05] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "belowname" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
-[09:44:05] [Server thread/INFO]: [TAB] [WARN] Found a total of 4 issues.
-[09:44:05] [Server thread/INFO]: [TAB] Enabled in 181ms
-[09:44:05] [Server thread/INFO]: [LevelTools] Enabling LevelTools v1.4.0.2
-[09:44:05] [Server thread/INFO]:           _____
-[09:44:05] [Server thread/INFO]:  |          |     Created by byteful
-[09:44:05] [Server thread/INFO]:  |          |     Running LevelTools v1.4.0.2 on MC 1.21.4
-[09:44:05] [Server thread/INFO]:  |_____     |     Join https://discord.gg/G8BDgqsuyw for support!
-[09:44:05] [Server thread/INFO]: 
-[09:44:05] [Server thread/INFO]: [LevelTools] Loaded configuration...
-[09:44:05] [Server thread/INFO]: [LevelTools] Loaded block data manager...
-[09:44:05] [Server thread/INFO]: [LevelTools] Checking for updates...
-[09:44:05] [Server thread/INFO]: [LevelTools] Registered listeners...
-[09:44:05] [Server thread/WARN]: [LevelTools] "LevelTools v1.4.0.2" has registered a listener for com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent on method "public void me.byteful.plugin.leveltools.libs.lamp.bukkit.brigadier.PaperCommodore$CommandRegisterListener.onCommandRegistered(com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent<?>)", but the event is Deprecated. "This event has been superseded by the Commands API and will be removed in a future release. Listen to LifecycleEvents.COMMANDS instead."; please notify the authors [byteful].
-[09:44:05] [Server thread/INFO]: [LevelTools] Registered commands...
-[09:44:05] [Server thread/INFO]: [LevelTools] Successfully started LevelTools v1.4.0.2!
-[09:44:05] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
-[09:44:05] [Thread-24/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
-[09:44:05] [Thread-24/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
-[09:44:05] [Server thread/INFO]: [concrete_powder_modifier] Enabling concrete_powder_modifier v${version}
-[09:44:05] [Server thread/INFO]: Concrete powder modifier starting...
-[09:44:05] [Server thread/INFO]: [PlayerShopGUIPlus] Enabling PlayerShopGUIPlus v1.33.1
-[09:44:06] [Server thread/ERROR]: Error occurred while enabling PlayerShopGUIPlus v1.33.1 (Is it up to date?)
+[00:00:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:00:18] [ServerMain/INFO]: Loaded 1377 recipes
+[00:00:18] [ServerMain/INFO]: Loaded 1544 advancements
+[00:00:18] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[00:00:18] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 184.5ms
+[00:00:18] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:00:18] [Server thread/INFO]: Loading properties
+[00:00:18] [Server thread/INFO]: This server is running Paper version 1.21.4-136-main@e0711af (2025-01-31T12:30:12Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[00:00:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:00:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:00:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:00:19] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[00:00:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:00:19] [Server thread/INFO]: Default game type: SURVIVAL
+[00:00:19] [Server thread/INFO]: Generating keypair
+[00:00:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:00:19] [Server thread/INFO]: Using epoll channel type
+[00:00:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:00:19] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[00:00:19] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:00:27] [Server thread/WARN]: Legacy plugin Dynmap-Essentials v0.91-SNAPSHOT does not specify an api-version.
+[00:00:27] [Server thread/WARN]: Legacy plugin Playtimes v1.6.2b does not specify an api-version.
+[00:00:28] [Server thread/WARN]: Legacy plugin FlyTime v1.2 does not specify an api-version.
+[00:00:28] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.120
+[00:00:28] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[00:00:28] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+162-ea3ea20
+[00:00:28] [Server thread/INFO]: [dynmap] Loading server plugin dynmap v3.7-SNAPSHOT-968
+[00:00:28] [Server thread/INFO]: [dynmap] version=1.21.4-136-e0711af (MC: 1.21.4)
+[00:00:28] [Server thread/INFO]: [dynmap] Mod Support API available
+[00:00:28] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+162-ea3ea20
+[00:00:28] [Server thread/INFO]: [mcMMO] Loading server plugin mcMMO v2.2.030
+[00:00:28] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
+[00:00:28] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[00:00:28] [Server thread/INFO]: [Dynmap-Essentials] Loading server plugin Dynmap-Essentials v0.91-SNAPSHOT
+[00:00:28] [Server thread/INFO]: [Sleeper] Loading server plugin Sleeper v1.5.1
+[00:00:28] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[00:00:28] [Server thread/INFO]: [LevelTools] Loading server plugin LevelTools v1.4.0.2
+[00:00:28] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[00:00:28] [Server thread/INFO]: [concrete_powder_modifier] Loading server plugin concrete_powder_modifier v${version}
+[00:00:28] [Server thread/INFO]: [PlayerShopGUIPlus] Loading server plugin PlayerShopGUIPlus v1.33.1
+[00:00:28] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.10.2
+[00:00:28] [Server thread/INFO]: [LumberJack] Loading server plugin LumberJack v5.4.0
+[00:00:28] [Server thread/INFO]: [Playtimes] Loading server plugin Playtimes v1.6.2b
+[00:00:28] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.29.0
+[00:00:28] [Server thread/INFO]: [LevelledMobs] Loading server plugin LevelledMobs v4.2.0.2 b98
+[00:00:28] [Server thread/INFO]: [LevelledMobs] Loading commands
+[00:00:28] [Server thread/INFO]: [FlyTime] Loading server plugin FlyTime v1.2
+[00:00:28] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.2.4
+[00:00:28] [Server thread/INFO]: [Autorank] Loading server plugin Autorank v5.2.2
+[00:00:28] [Server thread/INFO]: [Dynmap-GriefPrevention] Loading server plugin Dynmap-GriefPrevention v0.88
+[00:00:28] [Server thread/INFO]: [Hibernate] Loading server plugin Hibernate v2.1.0
+[00:00:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:00:28] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.120
+[00:00:29] [Server thread/INFO]:         __    
+[00:00:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.120
+[00:00:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[00:00:29] [Server thread/INFO]: 
+[00:00:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[00:00:29] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[00:00:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[00:00:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[00:00:30] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1792ms)
+[00:00:30] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[00:00:30] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[00:00:30] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[00:00:30] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[00:00:30] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[00:00:30] [Server thread/INFO]: Preparing level "world"
+[00:00:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:31] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:32] [Server thread/INFO]: Time elapsed: 607 ms
+[00:00:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:00:32] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:32] [Server thread/INFO]: Time elapsed: 235 ms
+[00:00:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:00:32] [Server thread/INFO]: Preparing spawn area: 0%
+[00:00:32] [Server thread/INFO]: Time elapsed: 48 ms
+[00:00:32] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+162-ea3ea20
+[00:00:32] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[00:00:32] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[00:00:32] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[00:00:32] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[00:00:32] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[00:00:32] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[00:00:32] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[00:00:33] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[00:00:33] [Server thread/WARN]: [Essentials] File plugins/Essentials/items.json has been modified by user and file version differs, please update the file manually.
+[00:00:33] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[00:00:33] [Server thread/INFO]: [Essentials] Using locale en
+[00:00:33] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[00:00:33] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[00:00:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[00:00:33] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[00:00:33] [Server thread/INFO]: [dynmap] Enabling dynmap v3.7-SNAPSHOT-968
+[00:00:33] [Server thread/INFO]: [dynmap] Added 127 custom biome mappings
+[00:00:33] [Server thread/INFO]: [dynmap] Using LuckPerms 5.4.120 for access control
+[00:00:33] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[00:00:35] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[00:00:35] [Server thread/INFO]: [dynmap] Loaded 83 perspectives.
+[00:00:35] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[00:00:35] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[00:00:35] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[00:00:36] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[00:00:36] [Server thread/INFO]: [dynmap] version 3.7-SNAPSHOT-968 is enabled - core version 3.7-SNAPSHOT-985
+[00:00:36] [Server thread/INFO]: [dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[00:00:36] [Server thread/INFO]: [dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://universeodon.com/@dynmap
+[00:00:36] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[00:00:36] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[00:00:36] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[00:00:36] [Server thread/INFO]: [dynmap] Loaded 831930 pending tile renders for world 'world'
+[00:00:36] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[00:00:36] [Server thread/INFO]: [dynmap] Loaded 147696 pending tile renders for world 'world_nether'
+[00:00:36] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[00:00:36] [Server thread/INFO]: [dynmap] Loaded 144481 pending tile renders for world 'world_the_end'
+[00:00:36] [Server thread/INFO]: [dynmap] Enabled
+[00:00:36] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+162-ea3ea20
+[00:00:36] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[00:00:36] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.2.030
+[00:00:36] [Server thread/INFO]: [mcMMO] Loaded 229 Alchemy potions, skipped 0.
+[00:00:37] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
+[00:00:37] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[00:00:37] [Server thread/INFO]: [GriefPrevention] 13 total claims loaded.
+[00:00:37] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[00:00:37] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[00:00:38] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[00:00:38] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[00:00:38] [Server thread/INFO]: [Dynmap-Essentials] Enabling Dynmap-Essentials v0.91-SNAPSHOT*
+[00:00:38] [Server thread/INFO]: [Dynmap-Essentials] initializing
+[00:00:38] [Server thread/INFO]: [Dynmap-Essentials] version 0.91-SNAPSHOT is activated
+[00:00:38] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.1
+[00:00:38] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.1 Has Been Enabled!
+[00:00:38] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[00:00:38] [Server thread/INFO]: [TAB] Loaded NMS hook in 58ms
+[00:00:38] [Server thread/INFO]: [TAB] [config.yml] [Hint] Refresh interval of %server_unique_joins% is same as default interval, therefore there is no need to override it.
+[00:00:38] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[00:00:38] [Server thread/INFO]: [TAB] [WARN] [groups.yml] Unknown property "customtagname" defined for group "_DEFAULT_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[00:00:38] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "abovename" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[00:00:38] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "belowname" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[00:00:38] [Server thread/INFO]: [TAB] [WARN] Found a total of 4 issues.
+[00:00:38] [Server thread/INFO]: [TAB] Enabled in 167ms
+[00:00:38] [Server thread/INFO]: [LevelTools] Enabling LevelTools v1.4.0.2
+[00:00:38] [Server thread/INFO]:           _____
+[00:00:38] [Server thread/INFO]:  |          |     Created by byteful
+[00:00:38] [Server thread/INFO]:  |          |     Running LevelTools v1.4.0.2 on MC 1.21.4
+[00:00:38] [Server thread/INFO]:  |_____     |     Join https://discord.gg/G8BDgqsuyw for support!
+[00:00:38] [Server thread/INFO]: 
+[00:00:38] [Server thread/INFO]: [LevelTools] Loaded configuration...
+[00:00:38] [Server thread/INFO]: [LevelTools] Loaded block data manager...
+[00:00:38] [Server thread/INFO]: [LevelTools] Checking for updates...
+[00:00:38] [Server thread/INFO]: [LevelTools] Registered listeners...
+[00:00:38] [Server thread/WARN]: [LevelTools] "LevelTools v1.4.0.2" has registered a listener for com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent on method "public void me.byteful.plugin.leveltools.libs.lamp.bukkit.brigadier.PaperCommodore$CommandRegisterListener.onCommandRegistered(com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent<?>)", but the event is Deprecated. "This event has been superseded by the Commands API and will be removed in a future release. Listen to LifecycleEvents.COMMANDS instead."; please notify the authors [byteful].
+[00:00:38] [Server thread/INFO]: [LevelTools] Registered commands...
+[00:00:38] [Server thread/INFO]: [LevelTools] Successfully started LevelTools v1.4.0.2!
+[00:00:38] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[00:00:38] [Thread-24/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[00:00:38] [Thread-24/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[00:00:38] [Server thread/INFO]: [concrete_powder_modifier] Enabling concrete_powder_modifier v${version}
+[00:00:38] [Server thread/INFO]: Concrete powder modifier starting...
+[00:00:38] [Server thread/INFO]: [PlayerShopGUIPlus] Enabling PlayerShopGUIPlus v1.33.1
+[00:00:38] [Server thread/ERROR]: Error occurred while enabling PlayerShopGUIPlus v1.33.1 (Is it up to date?)
 java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
 	at PlayerShopGUIPlus-1.33.1.jar/net.brcdev.playershopgui.PlayerShopGuiPlugin.setupItemHandler(PlayerShopGuiPlugin.java:362) ~[PlayerShopGUIPlus-1.33.1.jar:?]
 	at PlayerShopGUIPlus-1.33.1.jar/net.brcdev.playershopgui.PlayerShopGuiPlugin.onEnable(PlayerShopGuiPlugin.java:173) ~[PlayerShopGUIPlus-1.33.1.jar:?]
@@ -198,8 +198,8 @@ java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1163) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[09:44:06] [Server thread/INFO]: [PlayerShopGUIPlus] Disabling PlayerShopGUIPlus v1.33.1
-[09:44:06] [Server thread/ERROR]: Error occurred while disabling PlayerShopGUIPlus v1.33.1
+[00:00:38] [Server thread/INFO]: [PlayerShopGUIPlus] Disabling PlayerShopGUIPlus v1.33.1
+[00:00:38] [Server thread/ERROR]: Error occurred while disabling PlayerShopGUIPlus v1.33.1
 java.lang.NullPointerException: Cannot invoke "net.brcdev.playershopgui.database.DataManager.close()" because "this.dataManager" is null
 	at PlayerShopGUIPlus-1.33.1.jar/net.brcdev.playershopgui.PlayerShopGuiPlugin.onDisable(PlayerShopGuiPlugin.java:247) ~[PlayerShopGUIPlus-1.33.1.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:290) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
@@ -217,154 +217,130 @@ java.lang.NullPointerException: Cannot invoke "net.brcdev.playershopgui.database
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1163) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.21.4...
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
-[09:44:06] [Thread-24/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: options-martial.joinmc.link
-[09:44:06] [Thread-24/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
-[09:44:06] [Thread-24/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:830:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
-[09:44:06] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 391ms to complete
-[09:44:06] [Server thread/INFO]: [LumberJack] Enabling LumberJack v5.4.0
-[09:44:06] [Server thread/INFO]: [Playtimes] Enabling Playtimes v1.6.2b*
-[09:44:06] [Server thread/INFO]: [Playtimes] Successfully loaded.
-[09:44:06] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
-[09:44:06] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.2.0.2 b98
-[09:44:06] [Server thread/INFO]: [LevelledMobs] Enabling commands
-[09:44:06] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
-[09:44:06] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.4 for nametag support
-[09:44:06] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
-[09:44:06] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
-[09:44:06] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
-[09:44:06] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
-[09:44:06] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
-[09:44:06] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[09:44:07] [Server thread/INFO]: [LevelledMobs] Current rules hash: 626f7948e08d6f66d6c5cff9da8bc847f873f257244c02b308619b122236248e
-[09:44:07] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
-[09:44:07] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
-[09:44:07] [Server thread/INFO]: [LevelledMobs] Running misc procedures
-[09:44:07] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
-[09:44:07] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 241ms)
-[09:44:07] [Server thread/INFO]: [FlyTime] Enabling FlyTime v1.2*
-[09:44:07] [Server thread/INFO]: [FlyTime] Config.yml found, loading!
-[09:44:07] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.2.4
-[09:44:07] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
-[09:44:07] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 26 unique blocks.
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 24 unique blocks.
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
-[09:44:07] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
-[09:44:07] [Server thread/INFO]: [VeinMiner] Performing an update check!
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registering commands
-[09:44:07] [Server thread/INFO]: [VeinMiner] Registering events
-[09:44:07] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
-[09:44:07] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
-[09:44:07] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
-[09:44:07] [Server thread/INFO]: [Autorank] Enabling Autorank v5.2.2
-[09:44:07] [ForkJoinPool.commonPool-worker-2/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
-[09:44:07] [Server thread/INFO]: [Autorank] mainclass getHumanPluginName = Autorank v5.2.2
-[09:44:07] [Server thread/INFO]: [Autorank] mainclass getInternalPluginName = Autorank v5.2.2
-[09:44:07] [Server thread/INFO]: [Autorank] mainclass isPluginAvailable = true
-[09:44:07] [Server thread/INFO]: [Autorank] Generated new log file: log-2025-02-06.txt
-[09:44:07] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Using SQLITE for persistent storage.
-[09:44:07] [Server thread/INFO]: [Autorank] The settings.yml is up-to-date
-[09:44:07] [Server thread/INFO]: [Autorank] Generating new PluginLibrary instance
-[09:44:07] [Server thread/INFO]: [PluginLibrary] ***== Loading libraries ==***
-[09:44:07] [Server thread/INFO]: [PluginLibrary] ***== Loaded 5 libraries! ==***
-[09:44:07] [Server thread/INFO]: [PluginLibrary] Loaded libraries: Autorank (by Staartvin), EssentialsX (by drtshock), GriefPrevention (by RoboMWM), mcMMO (by t00thpick1) and Vault (by Kainzo)
-[09:44:07] [Server thread/INFO]: [PluginLibrary] *** Ready for plugins to send/retrieve data. ***
-[09:44:07] [Server thread/INFO]: [Autorank] Interval check every 5 minutes.
-[09:44:07] [Server thread/INFO]: [Autorank] Registered requirement service for adding custom requirements!
-[09:44:07] [Server thread/INFO]: [Autorank] Registered result service for adding custom results!
-[09:44:07] [Server thread/INFO]: [Autorank] Autorank 5.2.2 has been enabled!
-[09:44:07] [Server thread/INFO]: [Dynmap-GriefPrevention] Enabling Dynmap-GriefPrevention v0.88
-[09:44:07] [Server thread/INFO]: [Dynmap-GriefPrevention] Activated successfully.
-[09:44:07] [Server thread/INFO]: [Dynmap-GriefPrevention] Enabled successfully.
-[09:44:07] [Server thread/INFO]: [Hibernate] Enabling Hibernate v2.1.0
-[09:44:07] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
-[09:44:07] [Server thread/INFO]: [spark] Starting background profiler...
-[09:44:08] [Server thread/INFO]: Done preparing level "world" (9.683s)
-[09:44:08] [Server thread/INFO]: Running delayed init tasks
-[09:44:08] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[09:44:08] [Craft Scheduler Thread - 11 - Autorank/INFO]: [Autorank] Primary storage provider of Autorank: FlatFileStorageProvider
-[09:44:08] [Craft Scheduler Thread - 9 - Autorank/INFO]: [Autorank] Loading UUID storage files...
-[09:44:08] [Craft Scheduler Thread - 12 - Autorank/INFO]: [Autorank] Removed 0 old storage entries from database!
-[09:44:08] [Craft Scheduler Thread - 14 - Vault/INFO]: [Vault] Checking for Updates ... 
-[09:44:08] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
-[09:44:08] [Craft Scheduler Thread - 4 - Playtimes/INFO]: [Playtimes] [PlayTimes] Plugin is up to date! - 1.6.2b
-[09:44:08] [Craft Scheduler Thread - 9 - Autorank/INFO]: [Autorank] Loaded UUID storage in 0 seconds.
-[09:44:08] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[09:44:08] [Craft Scheduler Thread - 14 - Vault/INFO]: [Vault] No new version available
-[09:44:08] [Server thread/INFO]: [Hibernate] Saving worlds before Hibernation
-[09:44:08] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[09:44:08] [Craft Scheduler Thread - 16 - LevelTools/INFO]: [LevelTools] No new updates found.
-[09:44:08] [Server thread/INFO]: [Hibernate] Worlds saved!
-[09:44:08] [Server thread/INFO]: [Autorank] Registering statistics of vanilla Minecraft!
-[09:44:08] [Server thread/INFO]: [Autorank] Loaded libraries and dependencies
-[09:44:08] [Server thread/INFO]: [LumberJack] You are using the latest version of LumberJack.
-[09:44:08] [Server thread/INFO]: Done (30.964s)! For help, type "help"
-[09:44:08] [pool-34-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (9d4734818ab27069d76f264a4cda74a699806770)
-[09:44:08] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 3 EssentialsX dev build(s) out of date!
-[09:44:08] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[09:44:08] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
-[09:44:09] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:srv-command-line(1332317249339658240)
-[09:44:09] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Saved linked accounts in 4ms
-[09:44:09] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
-[09:44:09] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling dynmap hook
-[09:44:09] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
-[09:44:10] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 2/2 guilds (0 cancelled)
-[09:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
-[09:44:12] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: java.util.concurrent.TimeoutException
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at Dynmap-GriefPrevention-0.88.jar//org.dynmap.griefprevention.UpdateProcessing.getClaimsNonAsync(UpdateProcessing.java:73)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at Dynmap-GriefPrevention-0.88.jar//org.dynmap.griefprevention.UpdateProcessing.updateClaims(UpdateProcessing.java:89)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at Dynmap-GriefPrevention-0.88.jar//org.dynmap.griefprevention.DynmapGriefPreventionPlugin$1.run(DynmapGriefPreventionPlugin.java:181)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[09:44:47] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[09:48:08] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[09:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285725ms or 5714 ticks behind
-[09:52:09] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[09:52:41] [Thread-24/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=23.133.216.194:39966, peerAddr=62.210.99.136:48492, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, 23, -123, -40, -62, -100, 30, 62, -46, 99, -120, -67, 108, -84, 85, -53, 120, -85, 7, 103, -92, -122, 105, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 98, 120, -85, 7, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 125, -109, 69, -90, 119, 54, 102, -104, 31, 51, -86, -39, -42, -119, 106, 7], tunnelServerId=1, dataCenterId=36}
-[09:52:41] [Thread-24/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[09:52:41] [Thread-24/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43783 to claim client
-[09:52:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[09:52:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[09:52:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[09:52:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[09:52:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[09:52:41] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[09:52:41] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[09:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285407ms or 5708 ticks behind
-[09:56:12] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[09:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285352ms or 5707 ticks behind
-[10:00:13] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[10:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285332ms or 5706 ticks behind
-[10:04:13] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[10:04:42] [Thread-24/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=23.133.216.194:39966, peerAddr=81.17.16.76:36116, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, 23, -123, -40, -62, -100, 30, 81, 17, 16, 76, -115, 20, 40, -101, 81, -94, -85, 7, 103, -92, -119, 58, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 17, -94, -85, 7, 0, 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 81, -45, 111, -57, -21, 76, -123, 65, 61, -70, -53, -55, 81, 36, 90, -25], tunnelServerId=1, dataCenterId=28}
-[10:04:42] [Thread-24/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[10:04:42] [Thread-24/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43783 to claim client
-[10:04:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[10:04:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[10:04:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[10:04:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[10:04:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[10:04:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[10:04:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[00:00:38] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.10.2
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault and using EssentialsX Economy as economy provider
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.21.4...
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[00:00:39] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 409ms to complete
+[00:00:39] [Server thread/INFO]: [LumberJack] Enabling LumberJack v5.4.0
+[00:00:39] [Server thread/INFO]: [Playtimes] Enabling Playtimes v1.6.2b*
+[00:00:39] [Server thread/INFO]: [Playtimes] Successfully loaded.
+[00:00:39] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.2.0.2 b98
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.4 for nametag support
+[00:00:39] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[00:00:39] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[00:00:39] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[00:00:39] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[00:00:39] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[00:00:39] [Thread-24/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: options-martial.joinmc.link
+[00:00:39] [Thread-24/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Current rules hash: 626f7948e08d6f66d6c5cff9da8bc847f873f257244c02b308619b122236248e
+[00:00:39] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[00:00:39] [Thread-24/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:830:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[00:00:39] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 172ms)
+[00:00:39] [Server thread/INFO]: [FlyTime] Enabling FlyTime v1.2*
+[00:00:39] [Server thread/INFO]: [FlyTime] Config.yml found, loading!
+[00:00:39] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.2.4
+[00:00:39] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[00:00:39] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 26 unique blocks.
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 24 unique blocks.
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[00:00:39] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[00:00:39] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registering commands
+[00:00:39] [Server thread/INFO]: [VeinMiner] Registering events
+[00:00:39] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[00:00:39] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[00:00:39] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[00:00:39] [Server thread/INFO]: [Autorank] Enabling Autorank v5.2.2
+[00:00:39] [Server thread/INFO]: [Autorank] mainclass getHumanPluginName = Autorank v5.2.2
+[00:00:39] [Server thread/INFO]: [Autorank] mainclass getInternalPluginName = Autorank v5.2.2
+[00:00:39] [Server thread/INFO]: [Autorank] mainclass isPluginAvailable = true
+[00:00:39] [Server thread/INFO]: [Autorank] Generated new log file: log-2025-02-08.txt
+[00:00:39] [Server thread/INFO]: [Autorank] The settings.yml is up-to-date
+[00:00:39] [ForkJoinPool.commonPool-worker-2/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
+[00:00:39] [Server thread/INFO]: [Autorank] Generating new PluginLibrary instance
+[00:00:39] [Server thread/INFO]: [PluginLibrary] ***== Loading libraries ==***
+[00:00:39] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[00:00:39] [Server thread/INFO]: [PluginLibrary] ***== Loaded 5 libraries! ==***
+[00:00:39] [Server thread/INFO]: [PluginLibrary] Loaded libraries: Autorank (by Staartvin), EssentialsX (by drtshock), GriefPrevention (by RoboMWM), mcMMO (by t00thpick1) and Vault (by Kainzo)
+[00:00:39] [Server thread/INFO]: [PluginLibrary] *** Ready for plugins to send/retrieve data. ***
+[00:00:40] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[00:00:40] [Server thread/INFO]: [Autorank] Interval check every 5 minutes.
+[00:00:40] [Server thread/INFO]: [Autorank] Registered requirement service for adding custom requirements!
+[00:00:40] [Server thread/INFO]: [Autorank] Registered result service for adding custom results!
+[00:00:40] [Server thread/INFO]: [Autorank] Autorank 5.2.2 has been enabled!
+[00:00:40] [Server thread/INFO]: [Dynmap-GriefPrevention] Enabling Dynmap-GriefPrevention v0.88
+[00:00:40] [Server thread/INFO]: [Dynmap-GriefPrevention] Activated successfully.
+[00:00:40] [Server thread/INFO]: [Dynmap-GriefPrevention] Enabled successfully.
+[00:00:40] [Server thread/INFO]: [Hibernate] Enabling Hibernate v2.1.0
+[00:00:40] [pool-34-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (9d4734818ab27069d76f264a4cda74a699806770)
+[00:00:40] [Server thread/INFO]: [spark] Starting background profiler...
+[00:00:40] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[00:00:40] [Server thread/INFO]: Done preparing level "world" (9.850s)
+[00:00:40] [Server thread/INFO]: Running delayed init tasks
+[00:00:40] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[00:00:40] [Craft Scheduler Thread - 10 - Autorank/INFO]: [Autorank] Loading UUID storage files...
+[00:00:40] [Craft Scheduler Thread - 11 - Autorank/INFO]: [Autorank] Primary storage provider of Autorank: FlatFileStorageProvider
+[00:00:40] [Craft Scheduler Thread - 4 - Playtimes/INFO]: [Playtimes] [PlayTimes] Plugin is up to date! - 1.6.2b
+[00:00:40] [Craft Scheduler Thread - 10 - Autorank/INFO]: [Autorank] Loaded UUID storage in 0 seconds.
+[00:00:40] [Craft Scheduler Thread - 13 - Autorank/INFO]: [Autorank] Removed 0 old storage entries from database!
+[00:00:40] [Craft Scheduler Thread - 17 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:00:40] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[00:00:40] [Craft Scheduler Thread - 17 - Vault/INFO]: [Vault] No new version available
+[00:00:40] [Server thread/INFO]: [Hibernate] Saving worlds before Hibernation
+[00:00:40] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[00:00:40] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[00:00:41] [Craft Scheduler Thread - 15 - LevelTools/INFO]: [LevelTools] No new updates found.
+[00:00:41] [Server thread/INFO]: [Hibernate] Worlds saved!
+[00:00:41] [Server thread/INFO]: [Autorank] Registering statistics of vanilla Minecraft!
+[00:00:41] [Server thread/INFO]: [Autorank] Loaded libraries and dependencies
+[00:00:41] [Server thread/INFO]: [LumberJack] You are using the latest version of LumberJack.
+[00:00:41] [Server thread/INFO]: Done (31.527s)! For help, type "help"
+[00:00:41] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 4 EssentialsX dev build(s) out of date!
+[00:00:41] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[00:00:42] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[00:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:srv-command-line(1332317249339658240)
+[00:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Saved linked accounts in 2ms
+[00:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[00:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling dynmap hook
+[00:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[00:00:42] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 2/2 guilds (0 cancelled)
+[00:00:43] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[00:00:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: java.util.concurrent.TimeoutException
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at Dynmap-GriefPrevention-0.88.jar//org.dynmap.griefprevention.UpdateProcessing.getClaimsNonAsync(UpdateProcessing.java:73)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at Dynmap-GriefPrevention-0.88.jar//org.dynmap.griefprevention.UpdateProcessing.updateClaims(UpdateProcessing.java:89)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at Dynmap-GriefPrevention-0.88.jar//org.dynmap.griefprevention.DynmapGriefPreventionPlugin$1.run(DynmapGriefPreventionPlugin.java:181)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[00:01:20] [Craft Scheduler Thread - 3 - Dynmap-GriefPrevention/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[00:04:42] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285642ms or 5712 ticks behind
+[00:08:43] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[00:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285413ms or 5708 ticks behind
+[00:12:44] [Thread-24/INFO]: [gg.playit.control.ChannelSetup] send keep alive
