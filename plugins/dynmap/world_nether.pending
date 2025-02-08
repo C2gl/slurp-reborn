@@ -59,8 +59,6 @@ job:
     map: flat
     queue:
     -   class: org.dynmap.hdmap.HDMapTile
-        data: 13,-29,iso_S_90_lowres,0,0
-    -   class: org.dynmap.hdmap.HDMapTile
         data: -28,13,iso_S_90_lowres,0,0
     -   class: org.dynmap.hdmap.HDMapTile
         data: -28,12,iso_S_90_lowres,0,0
