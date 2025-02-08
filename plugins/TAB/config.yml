@@ -2,7 +2,7 @@ header-footer:
   enabled: true
   header:
   - <#FFFFFF>&m                                                </#FFFF00>
-  - '&3&lSLURP'
+  - '&3&lSLURP-REBORN'
   - '&7&l>> Welcome&3 &l%player%&7&l! &7&l<<'
   - '&7Online players: &f%online%'
   - '&6Online staff: &e%staffonline%'
