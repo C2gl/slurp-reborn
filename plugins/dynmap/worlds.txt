@@ -9,14 +9,14 @@ worlds:
   # Worlds can be handled by templates, based on world type
   # You can override the properties of the template by specifying them in this section
   #    for example 'Title: "My Awesome World"'
-  #- name: world
-  #  title: "World"
+  - name: world
+    title: "World"
   #   Use 'enabled: false' to disable a certain world.
-  #  enabled: false
+    enabled: true
   #   Use sendposition: false to prevent player positions from showing when on this world (if sendposition is globally enabled)
-  #  sendposition: false
+    sendposition: true
   #   Use sendhealth: false to prevent player health from showing when on this world (if sendhealth is globally enabled)
-  #  sendhealth: false
+    sendhealth: true
   #  # If world isn't contiguous chunks (due to teleporting, for example), fullrender needs to be given other locations to scan for tiles on each patch of chunks
   #  fullrenderlocations:
   #    - x: 10000
@@ -65,64 +65,74 @@ worlds:
   #  # of frequently updated tiles (such as due to machines, pistons, quarries or other automation).  Value can also be set on
   #  # individual maps.
   #  tileupdatedelay: 30
-  #  maps:
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: flat
-  #      title: "Flat"
-  #      prefix: flat
-  #      perspective: iso_S_90_lowres
-  #      shader: stdtexture
-  #      lighting: shadows
-  #      mapzoomin: 1
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: surface
-  #      title: "Surface"
-  #      prefix: t
-  #      perspective: iso_SE_30_hires
-  #      shader: stdtexture
-  #      lighting: shadows
-  #      mapzoomin: 1
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: cave
-  #      title: "Cave"
-  #      prefix: ct
-  #      perspective: iso_SE_60_lowres
-  #      shader: cave
-  #      lighting: default
-  #      mapzoomin: 3
-  #      # maps can be set to `readonly: false` to prevent updates
-  #      readonly: false 
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+      - class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: "Surface"
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+      - class: org.dynmap.hdmap.HDMap
+        name: cave
+        title: "Cave"
+        prefix: ct
+        perspective: iso_SE_60_lowres
+        shader: cave
+        lighting: default
+        mapzoomin: 3
+        # maps can be set to `readonly: false` to prevent updates
+        readonly: false 
   #
   # To just label world, and inherit rest from template, just provide name and title
   #- name: world2
   #  title: "Second World"
   #
-  #- name: nether
-  #  title: "Nether"
-  #  center:
-  #    x: 0
-  #    y: 64
-  #    z: 0
-  #  # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
-  #  extrazoomout: 3
-  #  maps:
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: flat
-  #      title: "Flat"
-  #      prefix: flat
-  #      perspective: iso_S_90_lowres
-  #      shader: stdtexture
-  #      lighting: nethershadows
-  #      # Map background color (day or night)
-  #      background: "#300806"
-  #      mapzoomin: 1
-  #    - class: org.dynmap.hdmap.HDMap
-  #      name: surface
-  #      title: "Surface"
-  #      prefix: surface
-  #      perspective: iso_SE_30_hires
-  #      shader: stdtexture
-  #      lighting: nethershadows
-  #      # Map background color (day or night)
-  #      background: "#300806"
-  #      mapzoomin: 1
+  - name: world_nether
+    title: "Nether"
+    center:
+      x: 0
+      y: 64
+      z: 0
+    # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
+    extrazoomout: 3
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
+        # Map background color (day or night)
+        background: "#300806"
+        mapzoomin: 1
+
+  - name: world_the_end
+    title: "The End"
+    center:
+      x: 0
+      y: 64
+      z: 0
+    # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
+    extrazoomout: 3
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
+        # Map background color (day or night)
+        background: "#300806"
+        mapzoomin: 1
