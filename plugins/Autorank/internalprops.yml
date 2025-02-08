@@ -8,36 +8,39 @@ leaderboards:
   daily_time:
     cached leaderboard:
     - '-------- Leaderboard (Daily time) --------'
+    - §61 | §btransferreSP - §70 days, 3 hours and 39 minutes.
+    - §62 | §bJGamesSP - §70 days, 2 hours and 15 minutes.
+    - §63 | §bC2gl - §70 days, 0 hours and 5 minutes.
     - '------------------------------------'
-    last updated: 1739012656890
+    last updated: 1739037639778
   weekly_time:
     cached leaderboard:
     - '-------- Leaderboard (Weekly time) --------'
-    - §61 | §btransferreSP - §70 days, 9 hours and 41 minutes.
-    - §62 | §bJGamesSP - §70 days, 4 hours and 2 minutes.
-    - §63 | §bC2gl - §70 days, 2 hours and 12 minutes.
+    - §61 | §btransferreSP - §70 days, 13 hours and 20 minutes.
+    - §62 | §bJGamesSP - §70 days, 6 hours and 17 minutes.
+    - §63 | §bC2gl - §70 days, 2 hours and 17 minutes.
     - '------------------------------------'
-    last updated: 1739012099008
+    last updated: 1739037639784
   monthly_time:
     cached leaderboard:
     - '-------- Leaderboard (Monthly time) --------'
-    - §61 | §btransferreSP - §70 days, 9 hours and 41 minutes.
-    - §62 | §bJGamesSP - §70 days, 4 hours and 2 minutes.
-    - §63 | §bC2gl - §70 days, 2 hours and 50 minutes.
+    - §61 | §btransferreSP - §70 days, 13 hours and 20 minutes.
+    - §62 | §bJGamesSP - §70 days, 6 hours and 17 minutes.
+    - §63 | §bC2gl - §70 days, 2 hours and 55 minutes.
     - '------------------------------------'
-    last updated: 1739012099041
+    last updated: 1739037639789
   total_time:
     cached leaderboard:
     - '-------- Leaderboard (All time) --------'
-    - §61 | §bJGamesSP - §72 days, 2 hours and 15 minutes.
-    - §62 | §btransferreSP - §71 day, 16 hours and 12 minutes.
+    - §61 | §bJGamesSP - §72 days, 4 hours and 30 minutes.
+    - §62 | §btransferreSP - §71 day, 19 hours and 51 minutes.
     - §63 | §bArt3mis7200 - §71 day, 1 hour and 13 minutes.
-    - §64 | §bC2gl - §70 days, 20 hours and 55 minutes.
+    - §64 | §bC2gl - §70 days, 21 hours and 0 minutes.
     - §65 | §bTomosChlausorius - §70 days, 14 hours and 55 minutes.
     - §66 | §btheChichi77 - §70 days, 2 hours and 29 minutes.
     - §67 | §bMVGames5419 - §70 days, 0 hours and 3 minutes.
     - '------------------------------------'
-    last updated: 1739012099119
+    last updated: 1739037639795
 is converted to new format: true
 tracked day: 6
 tracked week: 6
