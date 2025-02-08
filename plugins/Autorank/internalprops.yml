@@ -9,7 +9,7 @@ leaderboards:
     cached leaderboard:
     - '-------- Leaderboard (Daily time) --------'
     - '------------------------------------'
-    last updated: 1739012656890
+    last updated: 1739024291293
   weekly_time:
     cached leaderboard:
     - '-------- Leaderboard (Weekly time) --------'
@@ -17,7 +17,7 @@ leaderboards:
     - §62 | §bJGamesSP - §70 days, 4 hours and 2 minutes.
     - §63 | §bC2gl - §70 days, 2 hours and 12 minutes.
     - '------------------------------------'
-    last updated: 1739012099008
+    last updated: 1739024291357
   monthly_time:
     cached leaderboard:
     - '-------- Leaderboard (Monthly time) --------'
@@ -25,7 +25,7 @@ leaderboards:
     - §62 | §bJGamesSP - §70 days, 4 hours and 2 minutes.
     - §63 | §bC2gl - §70 days, 2 hours and 50 minutes.
     - '------------------------------------'
-    last updated: 1739012099041
+    last updated: 1739024291404
   total_time:
     cached leaderboard:
     - '-------- Leaderboard (All time) --------'
@@ -37,7 +37,7 @@ leaderboards:
     - §66 | §btheChichi77 - §70 days, 2 hours and 29 minutes.
     - §67 | §bMVGames5419 - §70 days, 0 hours and 3 minutes.
     - '------------------------------------'
-    last updated: 1739012099119
+    last updated: 1739024291464
 is converted to new format: true
 tracked day: 6
 tracked week: 6
