@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739024620940
-  login: 1739024541119
+  logout: 1739029268555
+  login: 1739029129750
 money: '7000.0'
 last-account-name: C2gl
 logoutlocation:
-  world: b4097c22-03f6-4561-ba05-a5ff197de6db
+  world: 8ff57c30-e3e2-4725-a77b-592a620f62ca
   world-name: world_mining
-  x: 160.0
-  y: 70.0
-  z: 0.0
-  yaw: 0.0
-  pitch: 0.0
+  x: 273.5811343965194
+  y: 64.0
+  z: -7.9426943706774225
+  yaw: -81.5302734375
+  pitch: 32.2959098815918
 lastlocation:
   world: 90886326-a2c5-4fc8-97b8-83049263b946
   world-name: world
