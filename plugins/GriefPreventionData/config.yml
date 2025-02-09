@@ -10,12 +10,12 @@ GriefPrevention:
     world_mining: -1
   Claims:
     Mode:
-      world_nether: Disabled
-      world_mining: Survival
       world_the_end: Disabled
+      Quests: Survival
+      world_mining: Survival
       world: Survival
       world_pve: Survival
-      Quests: Survival
+      world_nether: Disabled
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true

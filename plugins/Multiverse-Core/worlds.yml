@@ -190,7 +190,7 @@ worlds:
   Quests:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: Quests
     color: WHITE
     style: NORMAL
     pvp: 'true'
