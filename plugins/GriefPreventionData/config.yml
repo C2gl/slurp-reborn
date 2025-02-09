@@ -5,11 +5,17 @@ GriefPrevention:
     world: -1
     world_nether: -1
     world_the_end: -1
+    world_pve: -1
+    Quests: -1
+    world_mining: -1
   Claims:
     Mode:
+      world_nether: Disabled
+      world_mining: Survival
       world_the_end: Disabled
       world: Survival
-      world_nether: Disabled
+      world_pve: Survival
+      Quests: Survival
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
@@ -75,6 +81,9 @@ GriefPrevention:
       world: true
       world_nether: true
       world_the_end: true
+      world_pve: true
+      Quests: true
+      world_mining: true
     ProtectFreshSpawns: true
     PunishLogout: true
     CombatTimeoutSeconds: 15

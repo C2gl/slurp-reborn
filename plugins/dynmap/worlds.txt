@@ -134,5 +134,61 @@ worlds:
         shader: stdtexture
         lighting: nethershadows
         # Map background color (day or night)
-        background: "#300806"
+        mapzoomin: 1
+
+  - name: world_mining
+    title: "world mining"
+    center:
+      x: 0
+      y: 64
+      z: 0
+    # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
+    extrazoomout: 3
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        # Map background color (day or night)
+        mapzoomin: 1
+
+  - name: world_pve
+    title: "PVE"
+    center:
+      x: 0
+      y: 64
+      z: 0
+    # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
+    extrazoomout: 3
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        # Map background color (day or night)
+        mapzoomin: 1
+
+  - name: Quests
+    title: "Quest world"
+    center:
+      x: 0
+      y: 64
+      z: 0
+    # Number of extra zoom-out levels for world (each level is twice as big as the previous one)
+    extrazoomout: 3
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        # Map background color (day or night)
         mapzoomin: 1

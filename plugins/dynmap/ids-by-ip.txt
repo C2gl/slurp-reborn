@@ -1,6 +1,9 @@
 %YAML 1.1
 ---
 '127_0_0_1':
+<<<<<<< HEAD
+- C2gl
+=======
 - transferreSP
 - C2gl
 - JGamesSP
@@ -8,3 +11,4 @@
 - Art3mis7200
 - theChichi77
 - MVGames5419
+>>>>>>> main
