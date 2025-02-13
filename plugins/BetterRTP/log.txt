@@ -1,0 +1,126 @@
+2025-02-13 09:24:42 [INFO]: Cooldown = 600
+2025-02-13 09:24:42 [INFO]: Loading Overrides...
+2025-02-13 09:24:42 [INFO]: Loading World Types...
+2025-02-13 09:24:42 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-02-13 09:24:42 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-02-13 09:24:42 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-02-13 09:24:42 [INFO]: Loading Defaults...
+2025-02-13 09:24:42 [INFO]: Loading Custom Worlds...
+2025-02-13 09:24:42 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-02-13 09:24:42 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-02-13 09:24:42 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-02-13 09:24:45 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database COOLDOWN:world_pve configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database COOLDOWN:Quests configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database COOLDOWN:world_mining configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-02-13 09:24:45 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-02-13 09:24:46 [INFO]: Attempting to queue up some more safe locations...
+2025-02-13 09:24:53 [INFO]: Queue position generated: id= default_world_nether, database_ID= 47, location= x: -369, y: 36, z: 511, world: world_nether
+2025-02-13 09:24:57 [INFO]: Queue position generated: id= default_world_nether, database_ID= 48, location= x: -608, y: 46, z: 274, world: world_nether
+2025-02-13 09:25:01 [INFO]: Queue position generated: id= default_world_nether, database_ID= 49, location= x: 286, y: 48, z: -465, world: world_nether
+2025-02-13 09:25:04 [INFO]: Queue position generated: id= default_world_nether, database_ID= 50, location= x: -638, y: 39, z: 541, world: world_nether
+2025-02-13 09:25:07 [INFO]: Queue position generated: id= default_world_nether, database_ID= 51, location= x: -304, y: 51, z: -556, world: world_nether
+2025-02-13 09:25:12 [INFO]: Queue position generated: id= default_world_nether, database_ID= 52, location= x: -60, y: 46, z: -801, world: world_nether
+2025-02-13 09:25:14 [INFO]: Queue position generated: id= default_world_nether, database_ID= 53, location= x: -760, y: 58, z: -216, world: world_nether
+2025-02-13 09:25:17 [INFO]: Queue position generated: id= default_world_nether, database_ID= 54, location= x: -21, y: 45, z: 624, world: world_nether
+2025-02-13 09:25:22 [INFO]: Queue position generated: id= default_world_nether, database_ID= 55, location= x: 937, y: 71, z: 231, world: world_nether
+2025-02-13 09:25:24 [INFO]: Queue position generated: id= default_world_nether, database_ID= 56, location= x: -467, y: 91, z: 399, world: world_nether
+2025-02-13 09:25:26 [INFO]: Queue position generated: id= default_world_nether, database_ID= 57, location= x: -105, y: 35, z: 496, world: world_nether
+2025-02-13 09:25:29 [INFO]: Queue position generated: id= default_world_nether, database_ID= 58, location= x: 44, y: 58, z: 627, world: world_nether
+2025-02-13 09:25:32 [INFO]: Queue position generated: id= default_world_nether, database_ID= 59, location= x: -167, y: 92, z: -394, world: world_nether
+2025-02-13 09:25:34 [INFO]: Queue position generated: id= default_world_nether, database_ID= 60, location= x: -285, y: 48, z: 663, world: world_nether
+2025-02-13 09:25:36 [INFO]: Queue position generated: id= default_world_nether, database_ID= 61, location= x: -868, y: 62, z: 647, world: world_nether
+2025-02-13 09:25:39 [INFO]: Queue position generated: id= default_world_nether, database_ID= 62, location= x: 330, y: 36, z: 776, world: world_nether
+2025-02-13 09:25:40 [INFO]: Queue position generated: id= default_world_nether, database_ID= 63, location= x: -268, y: 37, z: 673, world: world_nether
+2025-02-13 09:25:42 [INFO]: Queue position generated: id= default_world_nether, database_ID= 64, location= x: -554, y: 46, z: 154, world: world_nether
+2025-02-13 09:25:45 [INFO]: Queue position generated: id= default_world_nether, database_ID= 65, location= x: -92, y: 67, z: 615, world: world_nether
+2025-02-13 09:25:49 [INFO]: Queue position generated: id= default_world_nether, database_ID= 66, location= x: 398, y: 56, z: -482, world: world_nether
+2025-02-13 09:25:52 [INFO]: Queue position generated: id= default_world_nether, database_ID= 67, location= x: -51, y: 88, z: -910, world: world_nether
+2025-02-13 09:25:54 [INFO]: Queue position generated: id= default_world_nether, database_ID= 68, location= x: 589, y: 44, z: 356, world: world_nether
+2025-02-13 09:25:56 [INFO]: Queue position generated: id= default_world_nether, database_ID= 69, location= x: -203, y: 45, z: 68, world: world_nether
+2025-02-13 09:26:03 [INFO]: Queue position generated: id= default_world_nether, database_ID= 70, location= x: -651, y: 70, z: 388, world: world_nether
+2025-02-13 09:26:06 [INFO]: Queue position generated: id= default_world_nether, database_ID= 71, location= x: 515, y: 44, z: -821, world: world_nether
+2025-02-13 09:26:11 [INFO]: Queue position generated: id= default_world_nether, database_ID= 72, location= x: -834, y: 45, z: 177, world: world_nether
+2025-02-13 09:26:13 [INFO]: Queue position generated: id= default_world_nether, database_ID= 73, location= x: -111, y: 35, z: 475, world: world_nether
+2025-02-13 09:26:22 [INFO]: Queue position generated: id= default_world_nether, database_ID= 74, location= x: 839, y: 43, z: 683, world: world_nether
+2025-02-13 09:26:27 [INFO]: Queue position generated: id= default_world_nether, database_ID= 75, location= x: -568, y: 37, z: 415, world: world_nether
+2025-02-13 09:26:29 [INFO]: Queue position generated: id= default_world_nether, database_ID= 76, location= x: -60, y: 52, z: -388, world: world_nether
+2025-02-13 09:26:31 [INFO]: Queue position generated: id= default_world_nether, database_ID= 77, location= x: -973, y: 45, z: 30, world: world_nether
+2025-02-13 09:26:33 [INFO]: Queue position generated: id= default_world_nether, database_ID= 78, location= x: -455, y: 85, z: -628, world: world_nether
+2025-02-13 09:26:34 [INFO]: Max queue reached for default_world_nether (amount: 32) lastCount: 0
+2025-02-13 09:26:35 [WARNING]: Seems like the world `Quests` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- Quests: NETHER`
+2025-02-13 09:26:35 [INFO]: Queue position generated: id= default_Quests, database_ID= 79, location= x: 939, y: 63, z: 328, world: Quests
+2025-02-13 09:26:38 [INFO]: Queue position generated: id= default_Quests, database_ID= 80, location= x: -457, y: 63, z: -516, world: Quests
+2025-02-13 09:26:45 [INFO]: Queue position generated: id= default_Quests, database_ID= 81, location= x: -330, y: 67, z: -611, world: Quests
+2025-02-13 09:26:51 [INFO]: Queue position generated: id= default_Quests, database_ID= 82, location= x: -588, y: 63, z: -158, world: Quests
+2025-02-13 09:26:55 [INFO]: Queue position generated: id= default_Quests, database_ID= 83, location= x: 201, y: 63, z: 133, world: Quests
+2025-02-13 09:26:57 [INFO]: Queue position generated: id= default_Quests, database_ID= 84, location= x: -477, y: 64, z: 345, world: Quests
+2025-02-13 09:27:04 [INFO]: Queue position generated: id= default_Quests, database_ID= 85, location= x: -966, y: 71, z: -296, world: Quests
+2025-02-13 09:27:12 [INFO]: Queue position generated: id= default_Quests, database_ID= 86, location= x: -854, y: 63, z: 451, world: Quests
+2025-02-13 09:27:13 [INFO]: Queue position generated: id= default_Quests, database_ID= 87, location= x: -329, y: 64, z: -634, world: Quests
+2025-02-13 09:27:18 [INFO]: Queue position generated: id= default_Quests, database_ID= 88, location= x: -505, y: 71, z: -947, world: Quests
+2025-02-13 09:27:20 [INFO]: Queue position generated: id= default_Quests, database_ID= 89, location= x: 498, y: 79, z: 557, world: Quests
+2025-02-13 09:27:22 [INFO]: Queue position generated: id= default_Quests, database_ID= 90, location= x: -514, y: 65, z: 343, world: Quests
+2025-02-13 09:27:26 [INFO]: Queue position generated: id= default_Quests, database_ID= 91, location= x: 361, y: 68, z: 323, world: Quests
+2025-02-13 09:27:29 [INFO]: Queue position generated: id= default_Quests, database_ID= 92, location= x: -212, y: 63, z: 519, world: Quests
+2025-02-13 09:27:32 [INFO]: Queue position generated: id= default_Quests, database_ID= 93, location= x: -188, y: 70, z: -338, world: Quests
+2025-02-13 09:27:34 [INFO]: Queue position generated: id= default_Quests, database_ID= 94, location= x: -709, y: 63, z: -70, world: Quests
+2025-02-13 09:27:37 [INFO]: Queue position generated: id= default_Quests, database_ID= 95, location= x: 274, y: 63, z: 677, world: Quests
+2025-02-13 09:27:39 [INFO]: Queue position generated: id= default_Quests, database_ID= 96, location= x: 357, y: 86, z: 634, world: Quests
+2025-02-13 09:27:43 [INFO]: Queue position generated: id= default_Quests, database_ID= 97, location= x: 964, y: 67, z: 449, world: Quests
+2025-02-13 09:27:49 [INFO]: Queue position generated: id= default_Quests, database_ID= 98, location= x: 586, y: 118, z: 589, world: Quests
+2025-02-13 09:27:52 [INFO]: Queue position generated: id= default_Quests, database_ID= 99, location= x: -446, y: 63, z: -553, world: Quests
+2025-02-13 09:27:57 [INFO]: Queue position generated: id= default_Quests, database_ID= 100, location= x: -265, y: 63, z: 635, world: Quests
+2025-02-13 09:28:06 [INFO]: Queue position generated: id= default_Quests, database_ID= 101, location= x: -372, y: 68, z: -483, world: Quests
+2025-02-13 09:28:09 [INFO]: Queue position generated: id= default_Quests, database_ID= 102, location= x: 36, y: 74, z: -199, world: Quests
+2025-02-13 09:28:11 [INFO]: Queue position generated: id= default_Quests, database_ID= 103, location= x: 124, y: 63, z: 404, world: Quests
+2025-02-13 09:28:13 [INFO]: Queue position generated: id= default_Quests, database_ID= 104, location= x: 430, y: 63, z: -564, world: Quests
+2025-02-13 09:28:17 [INFO]: Queue position generated: id= default_Quests, database_ID= 105, location= x: -380, y: 63, z: 107, world: Quests
+2025-02-13 09:28:20 [INFO]: Queue position generated: id= default_Quests, database_ID= 106, location= x: 402, y: 91, z: 538, world: Quests
+2025-02-13 09:28:23 [INFO]: Queue position generated: id= default_Quests, database_ID= 107, location= x: -209, y: 102, z: -788, world: Quests
+2025-02-13 09:28:25 [INFO]: Queue position generated: id= default_Quests, database_ID= 108, location= x: -113, y: 63, z: 153, world: Quests
+2025-02-13 09:28:29 [INFO]: Queue position generated: id= default_Quests, database_ID= 109, location= x: 312, y: 76, z: -353, world: Quests
+2025-02-13 09:28:30 [INFO]: Queue position generated: id= default_Quests, database_ID= 110, location= x: 133, y: 63, z: 406, world: Quests
+2025-02-13 09:28:31 [INFO]: Max queue reached for default_Quests (amount: 32) lastCount: 0
+2025-02-13 09:28:32 [WARNING]: Seems like the world `world_mining` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- world_mining: NETHER`
+2025-02-13 09:28:32 [INFO]: Queue position generated: id= default_world_mining, database_ID= 111, location= x: 943, y: 79, z: 480, world: world_mining
+2025-02-13 09:28:33 [INFO]: Queue position generated: id= default_world_mining, database_ID= 112, location= x: 743, y: 63, z: 447, world: world_mining
+2025-02-13 09:28:37 [INFO]: Queue position generated: id= default_world_mining, database_ID= 113, location= x: 71, y: 63, z: 565, world: world_mining
+2025-02-13 09:28:40 [INFO]: Queue position generated: id= default_world_mining, database_ID= 114, location= x: -315, y: 66, z: 947, world: world_mining
+2025-02-13 09:28:43 [INFO]: Queue position generated: id= default_world_mining, database_ID= 115, location= x: 106, y: 93, z: 726, world: world_mining
+2025-02-13 09:28:46 [INFO]: Queue position generated: id= default_world_mining, database_ID= 116, location= x: -927, y: 73, z: -567, world: world_mining
+2025-02-13 09:28:47 [INFO]: Queue position generated: id= default_world_mining, database_ID= 117, location= x: 761, y: 63, z: 356, world: world_mining
+2025-02-13 09:28:49 [INFO]: Queue position generated: id= default_world_mining, database_ID= 118, location= x: 331, y: 63, z: 525, world: world_mining
+2025-02-13 09:28:50 [INFO]: Queue position generated: id= default_world_mining, database_ID= 119, location= x: 291, y: 68, z: 343, world: world_mining
+2025-02-13 09:28:53 [INFO]: Queue position generated: id= default_world_mining, database_ID= 120, location= x: 150, y: 101, z: 824, world: world_mining
+2025-02-13 09:28:54 [INFO]: Queue position generated: id= default_world_mining, database_ID= 121, location= x: 247, y: 71, z: -457, world: world_mining
+2025-02-13 09:28:58 [INFO]: Queue position generated: id= default_world_mining, database_ID= 122, location= x: -781, y: 109, z: -692, world: world_mining
+2025-02-13 09:29:01 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-642.5,y=95.0,z=-534.5,pitch=18.454803,yaw=123.251755}
+2025-02-13 09:29:06 [INFO]: Queue position generated: id= default_world_mining, database_ID= 123, location= x: 818, y: 122, z: 944, world: world_mining
+2025-02-13 09:29:13 [INFO]: Queue position generated: id= default_world_mining, database_ID= 124, location= x: 216, y: 97, z: 386, world: world_mining
+2025-02-13 09:29:17 [INFO]: Queue position generated: id= default_world_mining, database_ID= 125, location= x: -958, y: 108, z: -637, world: world_mining
+2025-02-13 09:29:18 [INFO]: Queue position generated: id= default_world_mining, database_ID= 126, location= x: 702, y: 67, z: -382, world: world_mining
+2025-02-13 09:29:22 [INFO]: Queue position generated: id= default_world_mining, database_ID= 127, location= x: 506, y: 91, z: -527, world: world_mining
+2025-02-13 09:29:23 [INFO]: Queue position generated: id= default_world_mining, database_ID= 128, location= x: 366, y: 73, z: 122, world: world_mining
+2025-02-13 09:29:35 [INFO]: Queue position generated: id= default_world_mining, database_ID= 129, location= x: -622, y: 63, z: 417, world: world_mining
+2025-02-13 09:29:39 [INFO]: Queue position generated: id= default_world_mining, database_ID= 130, location= x: -867, y: 66, z: -542, world: world_mining
+2025-02-13 09:29:46 [INFO]: Queue position generated: id= default_world_mining, database_ID= 131, location= x: -397, y: 63, z: 593, world: world_mining
+2025-02-13 09:30:02 [INFO]: Queue position generated: id= default_world_mining, database_ID= 132, location= x: 942, y: 70, z: -553, world: world_mining
+2025-02-13 09:30:08 [INFO]: Queue position generated: id= default_world_mining, database_ID= 133, location= x: -281, y: 63, z: 779, world: world_mining
+2025-02-13 09:30:13 [INFO]: Queue position generated: id= default_world_mining, database_ID= 134, location= x: -836, y: 64, z: -499, world: world_mining
+2025-02-13 09:30:14 [INFO]: Queue position generated: id= default_world_mining, database_ID= 135, location= x: 753, y: 85, z: 141, world: world_mining
+2025-02-13 09:30:21 [INFO]: Queue position generated: id= default_world_mining, database_ID= 136, location= x: 353, y: 68, z: 19, world: world_mining
+2025-02-13 09:30:24 [INFO]: Queue position generated: id= default_world_mining, database_ID= 137, location= x: 432, y: 67, z: -654, world: world_mining
+2025-02-13 09:30:27 [INFO]: Queue position generated: id= default_world_mining, database_ID= 138, location= x: 839, y: 69, z: -965, world: world_mining
+2025-02-13 09:30:31 [INFO]: Queue position generated: id= default_world_mining, database_ID= 139, location= x: -579, y: 81, z: -932, world: world_mining
+2025-02-13 09:30:33 [INFO]: Queue position generated: id= default_world_mining, database_ID= 140, location= x: -613, y: 63, z: 877, world: world_mining
+2025-02-13 09:30:35 [INFO]: Queue position generated: id= default_world_mining, database_ID= 141, location= x: -573, y: 63, z: 920, world: world_mining
+2025-02-13 09:30:38 [INFO]: Queue position generated: id= default_world_mining, database_ID= 142, location= x: -590, y: 64, z: -671, world: world_mining
+2025-02-13 09:30:39 [INFO]: Max queue reached for default_world_mining (amount: 32) lastCount: 0
+2025-02-13 09:30:39 [INFO]: Queueing paused, max queue limit reached!
+2025-02-13 09:31:18 [INFO]: -Removed a queue Location{world=CraftWorld{name=world_mining},x=353.5,y=68.0,z=19.5,pitch=0.0,yaw=0.0}
+2025-02-13 09:32:07 [INFO]: Disabling BetterRTP v3.6.8
