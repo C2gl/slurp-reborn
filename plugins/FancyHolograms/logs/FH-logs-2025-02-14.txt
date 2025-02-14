@@ -1,0 +1,11 @@
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.2","timestamp":1739571594274,"threadID":75,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1739571599485,"threadID":173,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1739571599485,"threadID":173,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1739571599485,"threadID":173,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1739571599485,"threadID":173,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.2","timestamp":1739571599487,"threadID":75,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1739571719965,"threadID":75,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1739571719965,"threadID":75,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1739571719967,"threadID":75,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1739571719967,"threadID":75,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.2","timestamp":1739571770043,"threadID":75,"threadName":"Server thread","properties":{}}
