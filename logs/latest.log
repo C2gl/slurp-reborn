@@ -303,8 +303,13 @@ java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1163) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+<<<<<<< HEAD
 [09:18:41] [Server thread/INFO]: [PlayerShopGUIPlus] Disabling PlayerShopGUIPlus v1.33.1
 [09:18:41] [Server thread/ERROR]: Error occurred while disabling PlayerShopGUIPlus v1.33.1
+=======
+[10:46:29] [Server thread/INFO]: [PlayerShopGUIPlus] Disabling PlayerShopGUIPlus v1.33.1
+[10:46:29] [Server thread/ERROR]: Error occurred while disabling PlayerShopGUIPlus v1.33.1
+>>>>>>> a0dbe150d19134594d13a082903887bf881e7a4f
 java.lang.NullPointerException: Cannot invoke "net.brcdev.playershopgui.database.DataManager.close()" because "this.dataManager" is null
 	at PlayerShopGUIPlus-1.33.1.jar/net.brcdev.playershopgui.PlayerShopGuiPlugin.onDisable(PlayerShopGuiPlugin.java:247) ~[PlayerShopGUIPlus-1.33.1.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:290) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
@@ -322,6 +327,7 @@ java.lang.NullPointerException: Cannot invoke "net.brcdev.playershopgui.database
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1163) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-136-e0711af]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+<<<<<<< HEAD
 [09:18:41] [Server thread/INFO]: [LumberJack] Enabling LumberJack v5.4.0
 [09:18:41] [Server thread/INFO]: [LevelTools] Enabling LevelTools v1.4.0.2
 [09:18:41] [Server thread/INFO]:           _____
@@ -1234,3 +1240,465 @@ java.lang.NullPointerException: Cannot invoke "net.brcdev.playershopgui.database
 [09:32:16] [Server thread/INFO]: All I/O tasks to complete
 [09:32:16] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
 [09:32:16] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+=======
+[10:46:29] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.29.0
+[10:46:29] [Server thread/INFO]: [FlyTime] Enabling FlyTime v1.2*
+[10:46:29] [Server thread/INFO]: [FlyTime] Config.yml found, loading!
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v4.2.0.2 b98
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Enabling commands
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Building reflection cache, use simple names: true
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Using NMS version 1.21.4 for nametag support
+[10:46:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading files...
+[10:46:29] [Thread-22/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: options-martial.joinmc.link
+[10:46:29] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[10:46:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'settings.yml'...
+[10:46:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'messages.yml'...
+[10:46:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'externalplugins.yml'...
+[10:46:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'rules.yml'...
+[10:46:29] [Thread-22/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:830:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Current rules hash: 626f7948e08d6f66d6c5cff9da8bc847f873f257244c02b308619b122236248e
+[10:46:29] [Server thread/INFO]: [LevelledMobs] File Loader: Loading file 'customdrops.yml'...
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Listeners: Registering event listeners...
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Running misc procedures
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Tasks: Starting async nametag auto update task...
+[10:46:29] [Server thread/INFO]: [LevelledMobs] Start-up complete (took 238ms)
+[10:46:29] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[10:46:29] [Server thread/INFO]: [TAB] Loaded NMS hook in 51ms
+[10:46:29] [Server thread/INFO]: [TAB] [config.yml] [Hint] Refresh interval of %server_unique_joins% is same as default interval, therefore there is no need to override it.
+[10:46:29] [Server thread/INFO]: [TAB] [WARN] [config.yml] Missing configuration section "placeholders.register-tab-expansion" of type Boolean, using default value false.
+[10:46:29] [Server thread/INFO]: [TAB] [WARN] [groups.yml] Unknown property "customtagname" defined for group "_DEFAULT_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[10:46:29] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "abovename" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[10:46:29] [Server thread/INFO]: [TAB] [WARN] [users.yml] Unknown property "belowname" defined for user "_NEZNAMY_". Valid properties: [tagprefix, tagsuffix, tabprefix, customtabname, tabsuffix, header, footer]
+[10:46:29] [Server thread/INFO]: [TAB] [WARN] Found a total of 4 issues.
+[10:46:29] [Server thread/INFO]: [TAB] Enabled in 198ms
+[10:46:29] [Server thread/INFO]: [concrete_powder_modifier] Enabling concrete_powder_modifier v${version}
+[10:46:29] [Server thread/INFO]: Concrete powder modifier starting...
+[10:46:29] [Server thread/INFO]: [LevelTools] Enabling LevelTools v1.4.0.2
+[10:46:29] [Server thread/INFO]:           _____
+[10:46:29] [Server thread/INFO]:  |          |     Created by byteful
+[10:46:29] [Server thread/INFO]:  |          |     Running LevelTools v1.4.0.2 on MC 1.21.4
+[10:46:29] [Server thread/INFO]:  |_____     |     Join https://discord.gg/G8BDgqsuyw for support!
+[10:46:29] [Server thread/INFO]: 
+[10:46:29] [Server thread/INFO]: [LevelTools] Loaded configuration...
+[10:46:30] [Server thread/INFO]: [LevelTools] Loaded block data manager...
+[10:46:30] [Server thread/INFO]: [LevelTools] Checking for updates...
+[10:46:30] [Server thread/INFO]: [LevelTools] Registered listeners...
+[10:46:30] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[10:46:30] [Server thread/WARN]: [LevelTools] "LevelTools v1.4.0.2" has registered a listener for com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent on method "public void me.byteful.plugin.leveltools.libs.lamp.bukkit.brigadier.PaperCommodore$CommandRegisterListener.onCommandRegistered(com.destroystokyo.paper.event.brigadier.CommandRegisteredEvent<?>)", but the event is Deprecated. "This event has been superseded by the Commands API and will be removed in a future release. Listen to LifecycleEvents.COMMANDS instead."; please notify the authors [byteful].
+[10:46:30] [Server thread/INFO]: [LevelTools] Registered commands...
+[10:46:30] [pool-47-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (9d4734818ab27069d76f264a4cda74a699806770)
+[10:46:30] [Server thread/INFO]: [LevelTools] Successfully started LevelTools v1.4.0.2!
+[10:46:30] [Server thread/INFO]: [Sleeper] Enabling Sleeper v1.5.1
+[10:46:30] [Server thread/INFO]: [Sleeper] Sleeper Version 1.5.1 Has Been Enabled!
+[10:46:30] [Server thread/INFO]: [Hibernate] Enabling Hibernate v2.1.0
+[10:46:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[10:46:30] [Server thread/INFO]: [spark] Starting background profiler...
+[10:46:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[10:46:30] [Server thread/INFO]: Done preparing level "world" (11.498s)
+[10:46:30] [Server thread/INFO]: Running delayed init tasks
+[10:46:30] [Craft Scheduler Thread - 1 - Autorank/INFO]: [Autorank] Loading UUID storage files...
+[10:46:30] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[10:46:30] [Craft Scheduler Thread - 0 - Autorank/INFO]: [Autorank] Primary storage provider of Autorank: FlatFileStorageProvider
+[10:46:30] [Craft Scheduler Thread - 4 - Autorank/INFO]: [Autorank] Removed 0 old storage entries from database!
+[10:46:30] [Craft Scheduler Thread - 5 - Playtimes/INFO]: [Playtimes] [PlayTimes] Plugin is up to date! - 1.6.2b
+[10:46:30] [Craft Scheduler Thread - 1 - Autorank/INFO]: [Autorank] Loaded UUID storage in 0 seconds.
+[10:46:30] [Craft Scheduler Thread - 12 - Vault/INFO]: [Vault] Checking for Updates ... 
+[10:46:30] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[10:46:30] [Craft Scheduler Thread - 12 - Vault/INFO]: [Vault] No new version available
+[10:46:30] [Server thread/INFO]: [Hibernate] Saving worlds before Hibernation
+[10:46:30] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[10:46:31] [Craft Scheduler Thread - 15 - LevelTools/INFO]: [LevelTools] No new updates found.
+[10:46:31] [Server thread/INFO]: [Hibernate] Worlds saved!
+[10:46:31] [Server thread/INFO]: [Autorank] Registering statistics of vanilla Minecraft!
+[10:46:31] [Server thread/INFO]: [Autorank] Loaded libraries and dependencies
+[10:46:31] [Server thread/INFO]: [LumberJack] You are using the latest version of LumberJack.
+[10:46:31] [Server thread/INFO]: Done (40.430s)! For help, type "help"
+[10:46:31] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] You're 5 EssentialsX dev build(s) out of date!
+[10:46:31] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[10:46:32] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[10:46:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:srv-command-line(1332317249339658240)
+[10:46:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Saved linked accounts in 3ms
+[10:46:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[10:46:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling dynmap hook
+[10:46:32] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[10:46:33] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 2/2 guilds (0 cancelled)
+[10:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[10:46:34] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[10:46:39] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.194:39966, peerAddr=193.74.132.98:52915, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -100, 30, -63, 74, -124, 98, -50, -77, 103, -59, 91, -49, -85, 8, 103, -81, 31, 15, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 8, -49, -85, 8, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -48, -41, -111, -73, 86, -112, -30, -48, 113, -82, 113, 8, 70, 75, -20, 121], tunnelServerId=1, dataCenterId=38}
+[10:46:39] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:46:39] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[10:46:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:46:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:46:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:46:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:46:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:46:39] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:46:39] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:46:41] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.194:39966, peerAddr=193.74.132.98:52920, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -100, 30, -63, 74, -124, 98, -50, -72, -40, -4, 17, -12, -85, 8, 103, -81, 31, 17, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -52, -12, -85, 8, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -65, 9, 55, -70, 54, 127, -31, -30, -54, -55, -22, 97, 6, 26, 101, 15], tunnelServerId=1, dataCenterId=38}
+[10:46:41] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:46:41] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[10:46:41] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:46:41] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:46:41] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:46:41] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:46:41] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:46:41] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:46:41] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:46:42] [User Authenticator #0/INFO]: UUID of player C2gl is ac59ab29-63a9-4865-912e-ab25be6efa08
+[10:46:46] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:46:46] [TAB Processing Thread/INFO]: [TAB] [WARN] Player C2gl's group (moderator) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip+,vip,member,default. Player will be sorted on the bottom.
+[10:46:46] [Server thread/INFO]: C2gl[/127.0.0.1:57104] logged in with entity id 49 at ([world]-620.4829168849099, 71.0, -667.7977342745944)
+[10:46:46] [Server thread/INFO]: [MOD] C2gl has blessed you with his presence
+[10:48:37] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[10:48:37] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.194:39966, peerAddr=193.74.132.98:53069, claimAddress=209.25.141.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -100, 30, -63, 74, -124, 98, -49, 77, 81, -6, -34, 58, -85, 8, 103, -81, 31, -123, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 4, 58, -85, 8, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -51, -24, -17, 46, -82, 18, 54, 30, 10, -102, -37, 87, 92, -128, -28, -32], tunnelServerId=1, dataCenterId=38}
+[10:48:37] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:48:37] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43784 to claim client
+[10:48:37] [Server thread/INFO]: C2gl lost connection: Disconnected
+[10:48:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:48:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:48:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:48:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:48:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:48:37] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:48:37] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:48:37] [Server thread/INFO]: C2gl left the game
+[10:48:37] [Server thread/INFO]: [Hibernate] Saving worlds before Hibernation
+[10:48:38] [Server thread/INFO]: [Hibernate] Worlds saved!
+[10:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[10:50:32] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[10:53:09] [Server thread/INFO]: /dynmap - Control execution of dynmap.
+[10:53:09] [Server thread/INFO]:  Valid subcommands:  add-id-for-ip cancelrender del-id-for-ip dumpmemory fullrender hide ids-for-ip ips-for-id pause purgemap purgequeue purgeworld quiet radiusrender render resetstats sendtoweb show stats triggerstats updaterender url version webregister
+[10:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 285807ms or 5716 ticks behind
+[10:54:14] [Server thread/INFO]: Full render starting on world 'world'...
+[10:54:17] [Server thread/INFO]: [Hibernate] Hibernate is now disabled
+[10:54:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21111ms or 422 ticks behind
+[10:54:32] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[10:54:35] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 100 tiles rendered (125.18 msec/tile, 97.10 msec per render)
+[10:54:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 200 tiles rendered (126.52 msec/tile, 96.33 msec per render)
+[10:55:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 300 tiles rendered (129.54 msec/tile, 98.00 msec per render)
+[10:55:15] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 400 tiles rendered (129.78 msec/tile, 98.21 msec per render)
+[10:55:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 500 tiles rendered (131.52 msec/tile, 99.71 msec per render)
+[10:55:42] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 600 tiles rendered (131.98 msec/tile, 99.96 msec per render)
+[10:55:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 700 tiles rendered (132.45 msec/tile, 100.49 msec per render)
+[10:56:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 800 tiles rendered (132.99 msec/tile, 100.85 msec per render)
+[10:56:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 900 tiles rendered (133.23 msec/tile, 100.95 msec per render)
+[10:56:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1000 tiles rendered (133.35 msec/tile, 100.68 msec per render)
+[10:56:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1100 tiles rendered (133.66 msec/tile, 100.70 msec per render)
+[10:57:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1200 tiles rendered (133.64 msec/tile, 100.53 msec per render)
+[10:57:16] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1300 tiles rendered (133.34 msec/tile, 100.42 msec per render)
+[10:57:30] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1400 tiles rendered (133.55 msec/tile, 100.45 msec per render)
+[10:57:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1500 tiles rendered (133.43 msec/tile, 100.35 msec per render)
+[10:57:57] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1600 tiles rendered (133.50 msec/tile, 100.49 msec per render)
+[10:58:11] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1700 tiles rendered (133.66 msec/tile, 100.50 msec per render)
+[10:58:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1800 tiles rendered (133.65 msec/tile, 100.50 msec per render)
+[10:58:33] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[10:58:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1900 tiles rendered (133.33 msec/tile, 100.24 msec per render)
+[10:58:42] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:46306, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -76, -30, 16, 93, 121, -103, -85, 10, 103, -81, 33, -30, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -52, -103, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -80, -111, 99, -26, -85, -24, 19, 53, 51, 31, -118, 8, 33, -105, 11, 82], tunnelServerId=1, dataCenterId=44}
+[10:58:42] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:42] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:42] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0017]:23881, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:54760, claimAddress=209.25.141.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 23, 93, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -43, -24, 0, 0, 0, 0, 7, 114, -82, -126, -85, 10, 103, -81, 33, -30, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 73, -126, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -87, 43, 33, 14, 76, -123, 120, -104, 9, -118, -92, -120, -42, 127, -5, -39], tunnelServerId=1, dataCenterId=44}
+[10:58:42] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:42] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:42] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:42] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:42] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:42] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:43] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:46314, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -76, -22, -108, 101, 3, -97, -85, 10, 103, -81, 33, -29, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 21, -97, -85, 10, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 39, 52, 83, -34, -96, 120, -82, -102, 69, 49, -121, 11, 105, 2, -69, -10], tunnelServerId=1, dataCenterId=38}
+[10:58:43] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:43] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:43] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:43] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:43] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:43] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:43] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:43] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:43] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:46326, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -76, -10, 13, -34, 4, -23, -85, 10, 103, -81, 33, -28, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 69, -23, -85, 10, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -90, 90, 73, 105, 100, 117, 48, -115, -40, -105, -106, 100, 60, -128, 35, 92], tunnelServerId=1, dataCenterId=38}
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:44] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0017]:23881, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:54764, claimAddress=209.25.141.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 23, 93, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -43, -20, 0, 0, 0, 0, 35, 75, 22, -72, -85, 10, 103, -81, 33, -28, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 106, -72, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 51, 46, 67, 58, -9, -103, -63, 95, -70, 78, -41, -12, 99, 68, -94, 15], tunnelServerId=1, dataCenterId=44}
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:44] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:44] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:44] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:44] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:44] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:44] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:44] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0017]:23881, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:54770, claimAddress=209.25.141.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 23, 93, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -43, -14, 0, 0, 0, 0, -42, 95, 78, -88, -85, 10, 103, -81, 33, -28, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -59, -88, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 36, 3, -96, 93, -88, 71, -15, -24, -112, -18, -50, 75, 23, 44, 117, -109], tunnelServerId=1, dataCenterId=44}
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:44] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:44] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:44] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:46] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:39584, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -102, -96, -95, 96, -58, -24, -85, 10, 103, -81, 33, -26, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 95, -24, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 122, -111, -37, -105, 126, 81, -96, 82, -99, 120, 78, -124, -77, -87, 125, -68], tunnelServerId=1, dataCenterId=44}
+[10:58:46] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:46] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:46] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:46] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:47] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:39596, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -102, -84, -56, 87, -106, 84, -85, 10, 103, -81, 33, -25, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -119, 84, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -17, -81, -70, -37, 55, 2, 119, -4, 102, -85, 42, -87, 107, 96, 109, -92], tunnelServerId=1, dataCenterId=44}
+[10:58:47] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:47] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:47] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:47] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:47] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:47] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:47] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:47] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:47] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:47] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:39600, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -102, -80, 94, -107, 78, 124, -85, 10, 103, -81, 33, -25, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 116, 124, -85, 10, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 17, 18, -40, -114, -98, 74, 31, -18, 54, 115, 46, 115, -44, 111, 65, 9], tunnelServerId=1, dataCenterId=46}
+[10:58:47] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:47] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:47] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:47] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:47] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:47] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:47] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:47] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:47] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:48] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:39624, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -102, -56, 57, -37, 32, 51, -85, 10, 103, -81, 33, -24, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -83, 51, -85, 10, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -31, -87, -74, 18, 16, -109, -53, 89, -61, -91, -98, -19, 120, 113, 117, 104], tunnelServerId=1, dataCenterId=38}
+[10:58:48] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:48] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:48] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:48] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:48] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:48] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:48] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:48] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:48] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:48] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0017]:23881, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:37356, claimAddress=209.25.141.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 23, 93, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -111, -20, 0, 0, 0, 0, -26, -99, -62, -83, -85, 10, 103, -81, 33, -24, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 125, -83, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -96, -45, 89, -82, 8, 27, 24, -38, 105, 72, -16, 14, -34, -89, -122, -104], tunnelServerId=1, dataCenterId=44}
+[10:58:48] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:58:48] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:58:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:58:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:58:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:58:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:58:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:58:48] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:58:48] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:58:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2000 tiles rendered (133.52 msec/tile, 100.33 msec per render)
+[10:59:01] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:57272, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -33, -72, 73, -57, -15, -57, -85, 10, 103, -81, 33, -11, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -76, -57, -85, 10, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -53, 87, -18, 121, 61, 119, -54, -25, -66, 16, 31, -78, -121, 92, -48, 10], tunnelServerId=1, dataCenterId=38}
+[10:59:01] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:59:01] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:59:01] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:59:01] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:59:01] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:59:01] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:59:01] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:59:01] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:59:01] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:59:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2100 tiles rendered (133.30 msec/tile, 100.13 msec per render)
+[10:59:04] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=147.185.221.23:23881, peerAddr=216.128.138.102:57288, claimAddress=209.25.141.2:43786, claimToken=[44, 0, 60, -109, -71, -35, 23, 93, 73, -40, -128, -118, 102, -33, -56, 52, -65, -19, -114, -85, 10, 103, -81, 33, -8, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 127, -114, -85, 10, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -119, 71, -18, -116, 107, 118, 23, -103, 29, 100, 113, -116, -62, -44, 15, -21], tunnelServerId=1, dataCenterId=38}
+[10:59:04] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:59:04] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:59:04] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:59:04] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:59:04] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:59:04] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:59:04] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:59:04] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:59:04] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:59:07] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0017]:23881, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:49106, claimAddress=209.25.141.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 23, 93, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -65, -46, 0, 0, 0, 0, -51, -44, -106, 101, -85, 10, 103, -81, 33, -5, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 97, 101, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 21, -108, 53, 58, 104, 50, 82, 79, 124, 16, -27, 5, 32, 30, 108, 83], tunnelServerId=1, dataCenterId=44}
+[10:59:07] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:59:07] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:59:07] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:59:07] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:59:07] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:59:07] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:59:07] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:59:07] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:59:07] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:59:07] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:0017]:23881, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:49120, claimAddress=209.25.141.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 23, 93, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -65, -32, 0, 0, 0, 0, -125, 38, 121, -59, -85, 10, 103, -81, 33, -5, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, -64, -59, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -126, -32, 101, 39, 122, -121, -50, -94, -119, -30, -32, 85, 56, 77, 81, 62], tunnelServerId=1, dataCenterId=44}
+[10:59:07] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[10:59:07] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43786 to claim client
+[10:59:07] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[10:59:07] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[10:59:07] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[10:59:07] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[10:59:07] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[10:59:07] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[10:59:07] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[10:59:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2200 tiles rendered (133.14 msec/tile, 100.02 msec per render)
+[10:59:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2300 tiles rendered (132.96 msec/tile, 99.81 msec per render)
+[10:59:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2400 tiles rendered (132.81 msec/tile, 99.70 msec per render)
+[10:59:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2500 tiles rendered (132.84 msec/tile, 99.69 msec per render)
+[11:00:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2600 tiles rendered (132.74 msec/tile, 99.51 msec per render)
+[11:00:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2700 tiles rendered (132.82 msec/tile, 99.59 msec per render)
+[11:00:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2800 tiles rendered (132.80 msec/tile, 99.45 msec per render)
+[11:00:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2900 tiles rendered (132.76 msec/tile, 99.41 msec per render)
+[11:01:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3000 tiles rendered (132.78 msec/tile, 99.39 msec per render)
+[11:01:16] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3100 tiles rendered (132.56 msec/tile, 99.22 msec per render)
+[11:01:31] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3200 tiles rendered (132.89 msec/tile, 99.51 msec per render)
+[11:01:44] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3300 tiles rendered (132.70 msec/tile, 99.37 msec per render)
+[11:01:58] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3400 tiles rendered (133.05 msec/tile, 99.69 msec per render)
+[11:02:12] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3500 tiles rendered (132.95 msec/tile, 99.60 msec per render)
+[11:02:25] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3600 tiles rendered (133.07 msec/tile, 99.72 msec per render)
+[11:02:35] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:02:39] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3700 tiles rendered (133.15 msec/tile, 99.77 msec per render)
+[11:02:52] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3800 tiles rendered (133.10 msec/tile, 99.70 msec per render)
+[11:03:07] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3900 tiles rendered (133.36 msec/tile, 99.93 msec per render)
+[11:03:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4000 tiles rendered (133.41 msec/tile, 99.92 msec per render)
+[11:03:35] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4100 tiles rendered (133.60 msec/tile, 100.11 msec per render)
+[11:03:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4200 tiles rendered (133.72 msec/tile, 100.16 msec per render)
+[11:04:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4300 tiles rendered (133.62 msec/tile, 100.07 msec per render)
+[11:04:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4400 tiles rendered (133.95 msec/tile, 100.37 msec per render)
+[11:04:31] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4500 tiles rendered (133.99 msec/tile, 100.36 msec per render)
+[11:04:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4600 tiles rendered (134.18 msec/tile, 100.57 msec per render)
+[11:05:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4700 tiles rendered (134.35 msec/tile, 100.72 msec per render)
+[11:05:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4800 tiles rendered (134.30 msec/tile, 100.68 msec per render)
+[11:05:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4900 tiles rendered (134.46 msec/tile, 100.87 msec per render)
+[11:05:41] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5000 tiles rendered (134.47 msec/tile, 100.87 msec per render)
+[11:05:55] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5100 tiles rendered (134.47 msec/tile, 100.84 msec per render)
+[11:06:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5200 tiles rendered (134.75 msec/tile, 101.09 msec per render)
+[11:06:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5300 tiles rendered (134.73 msec/tile, 101.05 msec per render)
+[11:06:36] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:06:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5400 tiles rendered (134.72 msec/tile, 101.01 msec per render)
+[11:06:53] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5500 tiles rendered (135.10 msec/tile, 101.28 msec per render)
+[11:07:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5600 tiles rendered (134.98 msec/tile, 101.18 msec per render)
+[11:07:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5700 tiles rendered (134.98 msec/tile, 101.18 msec per render)
+[11:07:35] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5800 tiles rendered (135.25 msec/tile, 101.43 msec per render)
+[11:07:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5900 tiles rendered (135.21 msec/tile, 101.39 msec per render)
+[11:08:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6000 tiles rendered (135.24 msec/tile, 101.43 msec per render)
+[11:08:17] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6100 tiles rendered (135.45 msec/tile, 101.59 msec per render)
+[11:08:31] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6200 tiles rendered (135.46 msec/tile, 101.55 msec per render)
+[11:08:44] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6300 tiles rendered (135.44 msec/tile, 101.52 msec per render)
+[11:08:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6400 tiles rendered (135.60 msec/tile, 101.67 msec per render)
+[11:09:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6500 tiles rendered (135.62 msec/tile, 101.66 msec per render)
+[11:09:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6600 tiles rendered (135.63 msec/tile, 101.65 msec per render)
+[11:09:41] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6700 tiles rendered (135.67 msec/tile, 101.69 msec per render)
+[11:09:55] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6800 tiles rendered (135.72 msec/tile, 101.74 msec per render)
+[11:10:08] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6900 tiles rendered (135.75 msec/tile, 101.72 msec per render)
+[11:10:22] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7000 tiles rendered (135.75 msec/tile, 101.71 msec per render)
+[11:10:36] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:10:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7100 tiles rendered (135.89 msec/tile, 101.85 msec per render)
+[11:10:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7200 tiles rendered (135.81 msec/tile, 101.78 msec per render)
+[11:11:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7300 tiles rendered (135.69 msec/tile, 101.70 msec per render)
+[11:11:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7400 tiles rendered (135.85 msec/tile, 101.83 msec per render)
+[11:11:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7500 tiles rendered (135.88 msec/tile, 101.84 msec per render)
+[11:11:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7600 tiles rendered (135.89 msec/tile, 101.80 msec per render)
+[11:11:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7700 tiles rendered (135.88 msec/tile, 101.81 msec per render)
+[11:12:14] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7800 tiles rendered (135.98 msec/tile, 101.90 msec per render)
+[11:12:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 7900 tiles rendered (135.94 msec/tile, 101.86 msec per render)
+[11:12:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8000 tiles rendered (135.88 msec/tile, 101.81 msec per render)
+[11:12:55] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8100 tiles rendered (136.02 msec/tile, 101.93 msec per render)
+[11:13:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8200 tiles rendered (135.97 msec/tile, 101.91 msec per render)
+[11:13:22] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8300 tiles rendered (135.97 msec/tile, 101.89 msec per render)
+[11:13:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8400 tiles rendered (136.02 msec/tile, 101.92 msec per render)
+[11:13:51] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8500 tiles rendered (136.14 msec/tile, 102.01 msec per render)
+[11:14:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8600 tiles rendered (136.07 msec/tile, 101.94 msec per render)
+[11:14:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8700 tiles rendered (136.06 msec/tile, 101.92 msec per render)
+[11:14:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8800 tiles rendered (136.15 msec/tile, 101.99 msec per render)
+[11:14:37] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:14:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 8900 tiles rendered (136.19 msec/tile, 102.00 msec per render)
+[11:15:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9000 tiles rendered (136.19 msec/tile, 101.99 msec per render)
+[11:15:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9100 tiles rendered (136.17 msec/tile, 101.95 msec per render)
+[11:15:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9200 tiles rendered (136.28 msec/tile, 102.04 msec per render)
+[11:15:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9300 tiles rendered (136.32 msec/tile, 102.07 msec per render)
+[11:15:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9400 tiles rendered (136.32 msec/tile, 102.06 msec per render)
+[11:16:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9500 tiles rendered (136.30 msec/tile, 102.02 msec per render)
+[11:16:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9600 tiles rendered (136.35 msec/tile, 102.07 msec per render)
+[11:16:38] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9700 tiles rendered (136.40 msec/tile, 102.10 msec per render)
+[11:16:52] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9800 tiles rendered (136.42 msec/tile, 102.11 msec per render)
+[11:17:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 9900 tiles rendered (136.42 msec/tile, 102.10 msec per render)
+[11:17:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10000 tiles rendered (136.50 msec/tile, 102.16 msec per render)
+[11:17:35] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10100 tiles rendered (136.55 msec/tile, 102.14 msec per render)
+[11:17:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10200 tiles rendered (136.54 msec/tile, 102.13 msec per render)
+[11:18:03] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10300 tiles rendered (136.60 msec/tile, 102.19 msec per render)
+[11:18:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10400 tiles rendered (136.66 msec/tile, 102.22 msec per render)
+[11:18:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10500 tiles rendered (136.72 msec/tile, 102.24 msec per render)
+[11:18:38] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:18:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10600 tiles rendered (136.71 msec/tile, 102.22 msec per render)
+[11:19:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10700 tiles rendered (136.73 msec/tile, 102.23 msec per render)
+[11:19:15] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10800 tiles rendered (136.81 msec/tile, 102.27 msec per render)
+[11:19:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 10900 tiles rendered (136.85 msec/tile, 102.28 msec per render)
+[11:19:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11000 tiles rendered (136.80 msec/tile, 102.26 msec per render)
+[11:19:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11100 tiles rendered (136.79 msec/tile, 102.25 msec per render)
+[11:20:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11200 tiles rendered (136.80 msec/tile, 102.25 msec per render)
+[11:20:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11300 tiles rendered (136.83 msec/tile, 102.27 msec per render)
+[11:20:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11400 tiles rendered (136.77 msec/tile, 102.21 msec per render)
+[11:20:52] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11500 tiles rendered (136.81 msec/tile, 102.23 msec per render)
+[11:21:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11600 tiles rendered (136.83 msec/tile, 102.25 msec per render)
+[11:21:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11700 tiles rendered (136.85 msec/tile, 102.26 msec per render)
+[11:21:33] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11800 tiles rendered (136.79 msec/tile, 102.20 msec per render)
+[11:21:47] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 11900 tiles rendered (136.79 msec/tile, 102.19 msec per render)
+[11:22:01] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12000 tiles rendered (136.80 msec/tile, 102.20 msec per render)
+[11:22:14] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12100 tiles rendered (136.77 msec/tile, 102.18 msec per render)
+[11:22:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12200 tiles rendered (136.77 msec/tile, 102.17 msec per render)
+[11:22:39] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:22:42] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12300 tiles rendered (136.75 msec/tile, 102.16 msec per render)
+[11:22:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12400 tiles rendered (136.76 msec/tile, 102.16 msec per render)
+[11:23:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12500 tiles rendered (136.76 msec/tile, 102.14 msec per render)
+[11:23:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12600 tiles rendered (136.79 msec/tile, 102.16 msec per render)
+[11:23:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12700 tiles rendered (136.73 msec/tile, 102.10 msec per render)
+[11:23:51] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12800 tiles rendered (136.76 msec/tile, 102.12 msec per render)
+[11:24:05] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 12900 tiles rendered (136.80 msec/tile, 102.15 msec per render)
+[11:24:19] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13000 tiles rendered (136.76 msec/tile, 102.11 msec per render)
+[11:24:33] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13100 tiles rendered (136.77 msec/tile, 102.10 msec per render)
+[11:24:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13200 tiles rendered (136.76 msec/tile, 102.09 msec per render)
+[11:25:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13300 tiles rendered (136.76 msec/tile, 102.10 msec per render)
+[11:25:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13400 tiles rendered (136.72 msec/tile, 102.07 msec per render)
+[11:25:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13500 tiles rendered (136.75 msec/tile, 102.07 msec per render)
+[11:25:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13600 tiles rendered (136.68 msec/tile, 102.01 msec per render)
+[11:25:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13700 tiles rendered (136.66 msec/tile, 102.01 msec per render)
+[11:26:08] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13800 tiles rendered (136.67 msec/tile, 102.00 msec per render)
+[11:26:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 13900 tiles rendered (136.60 msec/tile, 101.95 msec per render)
+[11:26:35] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14000 tiles rendered (136.64 msec/tile, 101.97 msec per render)
+[11:26:40] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:26:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14100 tiles rendered (136.57 msec/tile, 101.91 msec per render)
+[11:27:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14200 tiles rendered (136.58 msec/tile, 101.92 msec per render)
+[11:27:16] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14300 tiles rendered (136.56 msec/tile, 101.91 msec per render)
+[11:27:28] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=23.133.216.194:39966, peerAddr=62.210.99.136:56102, claimAddress=209.25.141.2:43783, claimToken=[44, 0, 60, 23, -123, -40, -62, -100, 30, 62, -46, 99, -120, -37, 38, -33, 20, -100, 34, -85, 7, 103, -81, 40, -96, 0, 0, 0, 0, 0, 15, 116, -34, 0, 0, 0, 0, 0, 61, -114, -44, 80, 34, -85, 7, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 28, 109, -67, 12, 19, 119, -2, 105, -93, 110, -68, 52, -42, -107, -87, -70], tunnelServerId=1, dataCenterId=36}
+[11:27:28] [Thread-22/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[11:27:28] [Thread-22/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.141.2:43783 to claim client
+[11:27:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[11:27:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[11:27:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[11:27:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[11:27:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[11:27:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[11:27:28] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[11:27:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14400 tiles rendered (136.50 msec/tile, 101.87 msec per render)
+[11:27:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14500 tiles rendered (136.50 msec/tile, 101.87 msec per render)
+[11:27:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14600 tiles rendered (136.47 msec/tile, 101.85 msec per render)
+[11:28:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14700 tiles rendered (136.49 msec/tile, 101.86 msec per render)
+[11:28:24] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14800 tiles rendered (136.46 msec/tile, 101.84 msec per render)
+[11:28:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 14900 tiles rendered (136.45 msec/tile, 101.82 msec per render)
+[11:28:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15000 tiles rendered (136.43 msec/tile, 101.78 msec per render)
+[11:29:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15100 tiles rendered (136.43 msec/tile, 101.79 msec per render)
+[11:29:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15200 tiles rendered (136.45 msec/tile, 101.80 msec per render)
+[11:29:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15300 tiles rendered (136.41 msec/tile, 101.77 msec per render)
+[11:29:45] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15400 tiles rendered (136.39 msec/tile, 101.76 msec per render)
+[11:29:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15500 tiles rendered (136.37 msec/tile, 101.72 msec per render)
+[11:30:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15600 tiles rendered (136.38 msec/tile, 101.73 msec per render)
+[11:30:26] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15700 tiles rendered (136.38 msec/tile, 101.74 msec per render)
+[11:30:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15800 tiles rendered (136.35 msec/tile, 101.71 msec per render)
+[11:30:40] [Thread-22/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[11:31:00] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 15900 tiles rendered (136.73 msec/tile, 101.75 msec per render)
+>>>>>>> a0dbe150d19134594d13a082903887bf881e7a4f
