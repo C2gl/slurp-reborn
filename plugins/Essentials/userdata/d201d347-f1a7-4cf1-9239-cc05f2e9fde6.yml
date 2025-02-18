@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739724822255
+  login: 1739719132298
+money: '1000.0'
+last-account-name: theChichi77
+lastlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: -2668.699999988079
+  y: 31.0
+  z: -474.30000001192093
+  yaw: 77.1573715209961
+  pitch: 74.39996337890625
+logoutlocation:
+  world: 90886326-a2c5-4fc8-97b8-83049263b946
+  world-name: world
+  x: -2662.5
+  y: 42.0
+  z: -479.5
+  yaw: 0.0
+  pitch: 0.0
