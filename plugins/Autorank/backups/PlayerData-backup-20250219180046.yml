@@ -1,0 +1,372 @@
+ac59ab29-63a9-4865-912e-ab25be6efa08:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    member to VIP:
+      started: 1738430912944
+    farmer LVL1:
+      started: 1738430913030
+    miner LVL1:
+      started: 1738430913033
+    mobhunter LVL1:
+      started: 1738430913037
+    builder LVL2:
+      started: 1738430979877
+    lumberjack LVL2:
+      started: 1738620690956
+  completed paths:
+    farmer LVL0:
+      completed: 1
+      completed at: 1738430913026
+    miner LVL0:
+      completed: 1
+      completed at: 1738430913032
+    mobhunter LVL0:
+      completed: 1
+      completed at: 1738430913035
+    builder LVL0:
+      completed: 1
+      completed at: 1738430913041
+    builder LVL1:
+      completed: 1
+      completed at: 1738430979875
+    lumberjack LVL0:
+      completed: 1
+      completed at: 1738620391000
+    lumberjack LVL1:
+      completed: 1
+      completed at: 1738620690954
+  progress on paths:
+    member to VIP:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    farmer LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    miner LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    mobhunter LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    farmer LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    miner LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    mobhunter LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    builder LVL1:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL2:
+      completed requirements: []
+      completed prerequisites: []
+    lumberjack LVL1:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL2:
+      completed requirements: []
+      completed prerequisites: []
+d5995e78-c7cb-4d2e-aa81-a8899bd47ad5:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    farmer LVL1:
+      started: 1738516063631
+    miner LVL1:
+      started: 1738516063633
+    mobhunter LVL1:
+      started: 1738516063635
+    Lumberjack LVLX:
+      started: 1738516363531
+  completed paths:
+    farmer LVL0:
+      completed: 1
+      completed at: 1738516063630
+    miner LVL0:
+      completed: 1
+      completed at: 1738516063632
+    mobhunter LVL0:
+      completed: 1
+      completed at: 1738516063634
+    builder LVL0:
+      completed: 1
+      completed at: 1738516063638
+    lumberjack LVL0:
+      completed: 1
+      completed at: 1738516063640
+    builder LVL1:
+      completed: 1
+      completed at: 1738516106448
+    lumberjack LVL1:
+      completed: 1
+      completed at: 1738516106450
+    builder LVL2:
+      completed: 1
+      completed at: 1738516110804
+    lumberjack LVL2:
+      completed: 1
+      completed at: 1738516110806
+    builder LVL3:
+      completed: 1
+      completed at: 1738516117483
+    lumberjack LVL3:
+      completed: 1
+      completed at: 1738516117484
+    lumberjack LVL4:
+      completed: 1
+      completed at: 1738516121888
+    lumberjack LVL5:
+      completed: 1
+      completed at: 1738516363529
+  progress on paths:
+    farmer LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    miner LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    mobhunter LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    farmer LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    miner LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    mobhunter LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    builder LVL1:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL1:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL2:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL2:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL3:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL3:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL4:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL5:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    Lumberjack LVLX:
+      completed requirements: []
+      completed prerequisites: []
+d201d347-f1a7-4cf1-9239-cc05f2e9fde6:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    default to member:
+      started: 1739719132390
+    farmer LVL0:
+      started: 1739719132471
+    miner LVL0:
+      started: 1739719132472
+    mobhunter LVL0:
+      started: 1739719132474
+    lumberjack LVL0:
+      started: 1739719132476
+    builder LVL1:
+      started: 1739720932211
+  completed paths:
+    builder LVL0:
+      completed: 1
+      completed at: 1739720932206
+  progress on paths:
+    default to member:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    farmer LVL0:
+      completed requirements: []
+      completed prerequisites: []
+    miner LVL0:
+      completed requirements: []
+      completed prerequisites: []
+    mobhunter LVL0:
+      completed requirements: []
+      completed prerequisites: []
+    builder LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL0:
+      completed requirements: []
+      completed prerequisites: []
+    builder LVL1:
+      completed requirements: []
+      completed prerequisites: []
+f303893c-768a-4c80-b4f9-65d2a7a8210c:
+  exempt leaderboard: false
+  exempted from checking: false
+  exempted from time addition: false
+  results not performed:
+    completed requirements: {}
+  active paths:
+    farmer LVL0:
+      started: 1738491950011
+    miner LVL1:
+      started: 1738491950074
+    mobhunter LVL1:
+      started: 1738491950076
+    Lumberjack LVLX:
+      started: 1738493149964
+  completed paths:
+    miner LVL0:
+      completed: 1
+      completed at: 1738491950071
+    mobhunter LVL0:
+      completed: 1
+      completed at: 1738491950075
+    builder LVL0:
+      completed: 1
+      completed at: 1738491950078
+    lumberjack LVL0:
+      completed: 1
+      completed at: 1738491950080
+    builder LVL1:
+      completed: 1
+      completed at: 1738492249964
+    lumberjack LVL1:
+      completed: 1
+      completed at: 1738492249967
+    builder LVL2:
+      completed: 1
+      completed at: 1738492549967
+    lumberjack LVL2:
+      completed: 1
+      completed at: 1738492549969
+    builder LVL3:
+      completed: 1
+      completed at: 1738492849964
+    lumberjack LVL3:
+      completed: 1
+      completed at: 1738492849965
+    lumberjack LVL4:
+      completed: 1
+      completed at: 1738492983717
+    lumberjack LVL5:
+      completed: 1
+      completed at: 1738493149963
+  progress on paths:
+    farmer LVL0:
+      completed requirements: []
+      completed prerequisites: []
+    miner LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    mobhunter LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL0:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    miner LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    mobhunter LVL1:
+      completed requirements: []
+      completed prerequisites: []
+    builder LVL1:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL1:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL2:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL2:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    builder LVL3:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL3:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL4:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    lumberjack LVL5:
+      completed requirements:
+      - 0
+      completed prerequisites: []
+    Lumberjack LVLX:
+      completed requirements: []
+      completed prerequisites: []
+fb8b22a9-7f5f-4cfb-94cf-fc0bfd20a670: {}
+873bc772-4a98-4d04-9c9c-9f1e6c18ea3a: {}
+7dc81d7c-fc30-4a5a-9ee9-6b4ab60da3a1: {}
