@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 '127_0_0_1':
-- mawiSP
 - transferreSP
-- JGamesSP
 - C2gl
+- mawiSP
+- JGamesSP
 - theChichi77
 - TomosChlausorius
 - Art3mis7200

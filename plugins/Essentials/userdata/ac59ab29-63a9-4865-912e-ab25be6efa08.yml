@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1739100792191
+  lastteleport: 1740147833553
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1739824709188
-  login: 1739824520631
+  logout: 1740569088751
+  login: 1740568561364
 money: '7000.0'
 last-account-name: C2gl
 logoutlocation:
   world: 90886326-a2c5-4fc8-97b8-83049263b946
   world-name: world
-  x: -1618.996036650809
-  y: 74.0
-  z: -488.25695245390824
+  x: -588.0862898433363
+  y: 72.0
+  z: -692.3262916717688
   yaw: 0.0
   pitch: 0.0
 lastlocation:
   world: 90886326-a2c5-4fc8-97b8-83049263b946
   world-name: world
-  x: 4646.300000011921
-  y: -49.0
-  z: 2266.699999988079
-  yaw: 61.358062744140625
-  pitch: -17.82838249206543
+  x: 327.9791337854739
+  y: 64.0
+  z: 623.8691260306189
+  yaw: 146.62167358398438
+  pitch: 6.299998760223389
 homes:
   planes:
     world: 90886326-a2c5-4fc8-97b8-83049263b946
